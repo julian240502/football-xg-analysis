@@ -1,0 +1,555 @@
+x,y,shot_body_part,shot_technique,under_pressure,shot_first_time,goal,shot_statsbomb_xg,team,player,minute,second,distance_to_goal,angle_to_goal,is_central_zone,is_left_side,is_right_side
+111.3,56.5,Right Foot,Lob,0,1,0,0.024609007,Paris Saint-Germain,Zlatan Ibrahimović,1,7,18.653149868051777,0.796428178432251,0,0,1
+89.4,37.1,Right Foot,Normal,0,0,0,0.035886627,Paris Saint-Germain,Zlatan Ibrahimović,6,5,30.73711111994749,0.23808463627066898,1,1,0
+93.6,49.8,Right Foot,Normal,0,0,0,0.031780288,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,7,28,28.16025568065745,0.27551653787952857,1,0,1
+109.9,51.3,Right Foot,Normal,1,0,0,0.22743501,Paris Saint-Germain,Gregory van der Wiel,23,51,15.155856953666454,0.6953151908460652,0,0,1
+108.9,23.7,Left Foot,Normal,0,0,0,0.05210939,Paris Saint-Germain,Blaise Matuidi,28,37,19.72054765973805,0.6370076251165314,0,1,0
+105.7,53.7,Right Foot,Normal,0,0,1,0.08603722,Paris Saint-Germain,Zlatan Ibrahimović,31,53,19.803535037967336,0.5011303943750404,0,0,1
+111.2,46.1,Right Foot,Normal,1,1,1,0.15447496,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,39,37,10.707474025184464,0.7882908755757536,1,0,1
+103.3,55.7,Right Foot,Normal,0,0,0,0.042910684,Paris Saint-Germain,Adrien Rabiot,46,58,22.92116925464319,0.4315010855805508,0,0,1
+112.3,61.1,Left Foot,Half Volley,0,1,0,0.006106727,Paris Saint-Germain,Ángel Fabián Di María Hernández,49,12,22.461077445216205,0.8874264180196499,0,0,1
+114.1,43.8,Right Foot,Half Volley,0,1,1,0.5243198,Paris Saint-Germain,Gregory van der Wiel,53,5,7.017834423809103,1.110481098696181,1,0,1
+105.6,26.7,Left Foot,Normal,0,1,0,0.09832551,Paris Saint-Germain,David Luiz Moreira Marinho,60,25,19.602295783912663,0.4977927416022123,0,1,0
+94.4,35.2,Left Foot,Volley,0,1,1,0.0313798,Paris Saint-Germain,Ángel Fabián Di María Hernández,62,1,26.046112953759522,0.28401285578954033,1,1,0
+105.8,30.4,Left Foot,Lob,0,0,1,0.3200608,Paris Saint-Germain,Ángel Fabián Di María Hernández,65,22,17.140595088852663,0.5045121470411229,1,1,0
+116.3,35.2,Right Foot,Normal,0,1,0,0.48587784,Paris Saint-Germain,Edinson Roberto Cavani Gómez,81,20,6.060528029800704,1.559926868593224,1,1,0
+83.3,45.1,Right Foot,Normal,0,0,0,0.0062947473,Paris Saint-Germain,Serge Aurier,81,34,37.05266522127659,0.1987977269454504,1,0,1
+97.3,38.0,Right Foot,Normal,0,0,0,0.07954268,Paris Saint-Germain,Zlatan Ibrahimović,84,37,22.787935404507362,0.31971544299245214,1,1,0
+116.3,35.9,Left Foot,Volley,0,1,0,0.43347016,Paris Saint-Germain,Edinson Roberto Cavani Gómez,2,34,5.522680508593633,1.559926868593224,1,1,0
+113.1,33.2,Right Foot,Normal,1,1,0,0.21109682,Paris Saint-Germain,Edinson Roberto Cavani Gómez,5,24,9.687620966986685,0.9753959073722942,1,1,0
+86.0,33.7,Left Foot,Normal,0,0,0,0.015043803,Paris Saint-Germain,Ángel Fabián Di María Hernández,20,50,34.578750700394025,0.21446825065507452,1,1,0
+119.1,79.1,Left Foot,Normal,0,0,0,0.00018,Paris Saint-Germain,Ángel Fabián Di María Hernández,23,42,39.110356684643,2.6593572966868537,0,0,1
+89.4,54.2,Left Foot,Normal,0,0,0,0.008450556,Paris Saint-Germain,Ángel Fabián Di María Hernández,29,10,33.734255586866,0.23808463627066898,0,0,1
+78.5,53.3,Left Foot,Half Volley,1,0,0,0.005247138,Paris Saint-Germain,Adrien Rabiot,43,17,43.57912344230893,0.1759303576829666,0,0,1
+99.0,17.2,Right Foot,Normal,0,0,0,0.007796167,Paris Saint-Germain,Zlatan Ibrahimović,79,53,30.997419247414776,0.3451050435308474,0,1,0
+107.4,53.5,Right Foot,Normal,0,1,0,0.14747064,Paris Saint-Germain,Zlatan Ibrahimović,91,58,18.466456075814868,0.565393231187457,0,0,1
+103.7,54.7,Right Foot,Normal,0,1,0,0.060805865,Paris Saint-Germain,Zlatan Ibrahimović,7,57,21.949487465542333,0.4417528956138643,0,0,1
+114.2,36.0,Other,Normal,0,0,1,0.3109844,Paris Saint-Germain,Zlatan Ibrahimović,17,0,7.045565981523413,1.1258539089563115,1,1,0
+109.9,37.6,Right Foot,Volley,0,1,0,0.1651778,Paris Saint-Germain,Zlatan Ibrahimović,29,9,10.381233067415444,0.6953151908460652,1,1,0
+104.3,35.3,Right Foot,Half Volley,0,0,0,0.3910862,Paris Saint-Germain,Zlatan Ibrahimović,29,30,16.38841053915846,0.45806114415598626,1,1,0
+110.5,34.4,Right Foot,Normal,0,0,1,0.5019223,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,42,42,11.027692415006868,0.7354760173051574,1,1,0
+108.5,27.9,Left Foot,Half Volley,0,1,0,0.099712126,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,44,48,16.693112352104986,0.6162491267591,0,1,0
+98.2,41.0,Right Foot,Normal,0,1,0,0.13972482,Paris Saint-Germain,Zlatan Ibrahimović,47,16,21.822923727126938,0.33267724363606194,1,0,1
+100.2,31.5,Right Foot,Normal,0,0,0,0.08632032,Paris Saint-Germain,Zlatan Ibrahimović,51,42,21.547389633085487,0.36557052223109676,1,1,0
+115.9,38.4,Left Foot,Volley,0,1,1,0.72680956,Paris Saint-Germain,Marcos Aoás Corrêa,51,44,4.4011362169330726,1.457515560516147,1,1,0
+103.7,46.2,Left Foot,Normal,0,0,0,0.060187485,Paris Saint-Germain,Zlatan Ibrahimović,60,19,17.439323381370045,0.4417528956138643,1,0,1
+104.1,33.5,Left Foot,Normal,1,0,0,0.3415604,Paris Saint-Germain,Zlatan Ibrahimović,65,36,17.17731061604232,0.45249516038704257,1,1,0
+117.1,30.8,Head,Normal,0,0,0,0.053782217,Paris Saint-Germain,David Luiz Moreira Marinho,73,5,9.646242791885348,1.80147524920341,1,1,0
+108.0,47.1,Left Foot,Volley,0,1,0,0.10956274,Paris Saint-Germain,Blaise Matuidi,75,12,13.943098651304165,0.592075228949806,1,0,1
+116.0,42.3,Head,Normal,0,0,0,0.19105245,Paris Saint-Germain,Thiago Motta,75,41,4.61410879802373,1.4820817107661723,1,0,1
+95.7,53.1,Right Foot,Normal,0,0,0,0.044442195,Paris Saint-Germain,Zlatan Ibrahimović,80,28,27.60615873315228,0.2989871871162989,0,0,1
+94.9,41.7,Left Foot,Normal,0,0,0,0.02030118,Paris Saint-Germain,Zlatan Ibrahimović,81,23,25.157503850740035,0.2895924872533886,1,0,1
+97.6,44.2,Right Foot,Normal,1,0,0,0.11034992,Paris Saint-Germain,Zlatan Ibrahimović,82,13,22.790348834539596,0.32392333613735924,1,0,1
+106.9,46.3,Right Foot,Volley,1,1,0,0.13162276,Paris Saint-Germain,Zlatan Ibrahimović,84,17,14.536161804272812,0.5448846468926428,1,0,1
+112.1,34.9,Head,Normal,1,0,1,0.09333907,Paris Saint-Germain,Zlatan Ibrahimović,88,45,9.403190947758112,0.8677034040995953,1,1,0
+97.0,26.8,Left Foot,Lob,0,1,0,0.040270984,Paris Saint-Germain,Adrien Rabiot,2,47,26.51867266663247,0.3156145747080703,0,1,0
+94.6,38.1,Left Foot,Volley,0,1,0,0.0313294,Paris Saint-Germain,Ángel Fabián Di María Hernández,25,34,25.47096386083574,0.28621888483059693,1,1,0
+99.7,32.6,Left Foot,Normal,0,1,0,0.052352,Paris Saint-Germain,Zlatan Ibrahimović,35,58,21.606711920141848,0.35675842831041055,1,1,0
+115.3,41.0,Right Foot,Normal,0,0,0,0.85737664,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,35,59,4.805205510693588,1.32326419386673,1,0,1
+111.9,44.6,Head,Normal,0,0,0,0.12663935,Paris Saint-Germain,Serge Aurier,56,36,9.315041599477693,0.8487857199499718,1,0,1
+115.3,36.4,Head,Normal,0,0,1,0.33041242,Paris Saint-Germain,Zlatan Ibrahimović,58,32,5.920304046246277,1.32326419386673,1,1,0
+110.7,39.1,Head,Normal,0,0,0,0.070314616,Paris Saint-Germain,Serge Aurier,83,16,9.34344690143846,0.7498645976673648,1,1,0
+109.0,38.3,Head,Normal,1,0,0,0.042711172,Paris Saint-Germain,Serge Aurier,84,44,11.130588483993108,0.6424100014274465,1,1,0
+115.2,34.4,Left Foot,Half Volley,0,1,0,0.16578136,Paris Saint-Germain,Jean-Kévin Augustin,84,44,7.375635565834309,1.3029064549015714,1,1,0
+107.5,29.8,Left Foot,Normal,0,0,0,0.13881177,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,90,27,16.133505508723143,0.5696765414707413,0,1,0
+100.7,50.9,Left Foot,Normal,0,0,0,0.039518367,Paris Saint-Germain,Ángel Fabián Di María Hernández,90,38,22.165288177689003,0.37482373201875147,0,0,1
+111.7,39.4,Head,Normal,0,0,1,0.19830555,Paris Saint-Germain,Edinson Roberto Cavani Gómez,12,3,8.321658488546616,0.8306282144307795,1,1,0
+108.3,41.1,Head,Normal,1,0,0,0.044271223,Paris Saint-Germain,Thiago Emiliano da Silva,40,26,11.751595636338076,0.6063536783391891,1,0,1
+115.8,30.0,Right Foot,Normal,1,0,1,0.18566726,Paris Saint-Germain,Edinson Roberto Cavani Gómez,48,26,10.846197490365,1.4336073198863468,1,1,0
+115.5,44.3,Head,Normal,0,0,0,0.26147515,Paris Saint-Germain,Zlatan Ibrahimović,52,55,6.2241465278381725,1.3656366219583074,1,0,1
+91.5,43.4,Right Foot,Normal,0,0,0,0.029047206,Paris Saint-Germain,Christopher Nkunku,54,55,28.702090516197597,0.25544397038053845,1,0,1
+117.0,37.9,Head,Normal,0,0,1,0.5072537,Paris Saint-Germain,Edinson Roberto Cavani Gómez,57,47,3.6619666847201118,1.768349510930222,1,1,0
+108.6,49.9,Right Foot,Normal,0,0,0,0.1949924,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,82,5,15.098675438593945,0.6213150141255195,1,0,1
+111.7,41.0,Head,Normal,1,0,0,0.074019946,Paris Saint-Germain,Marcos Aoás Corrêa,82,35,8.360023923410743,0.8306282144307795,1,0,1
+102.0,46.9,Right Foot,Normal,0,0,1,0.25058663,Paris Saint-Germain,Zlatan Ibrahimović,91,37,19.277188591700813,0.40119724769543524,1,0,1
+109.2,41.2,Head,Normal,0,0,0,0.080745056,Paris Saint-Germain,Marcos Aoás Corrêa,7,43,10.866462165764897,0.6534843869413643,1,0,1
+95.2,57.1,Left Foot,Normal,0,0,0,0.0140274605,Paris Saint-Germain,Ángel Fabián Di María Hernández,14,16,30.123910768690042,0.29304598950668703,0,0,1
+63.0,40.8,Right Foot,Lob,0,0,0,0.003537224,Paris Saint-Germain,Zlatan Ibrahimović,16,37,57.00561375864661,0.12824499497973366,1,0,1
+105.0,52.9,Left Foot,Normal,0,1,0,0.09409077,Paris Saint-Germain,Ángel Fabián Di María Hernández,22,19,19.784084512557055,0.47864736198941576,0,0,1
+114.6,38.1,Left Foot,Normal,1,1,0,0.36291397,Paris Saint-Germain,Edinson Roberto Cavani Gómez,22,36,5.724508712544689,1.19131103073142,1,1,0
+99.4,31.0,Right Foot,Normal,0,1,0,0.034316353,Paris Saint-Germain,Javier Matías Pastore,23,12,22.48021352211762,0.35167010714039376,1,1,0
+103.9,51.5,Right Foot,Half Volley,0,0,0,0.07941869,Paris Saint-Germain,Zlatan Ibrahimović,25,0,19.785348114198037,0.4470605848314986,0,0,1
+93.6,55.9,Right Foot,Normal,0,0,0,0.01507959,Paris Saint-Germain,Edinson Roberto Cavani Gómez,27,15,30.81833869630224,0.27551653787952857,0,0,1
+98.1,43.4,Right Foot,Normal,0,0,0,0.10155114,Paris Saint-Germain,Zlatan Ibrahimović,35,14,22.162355470481927,0.3311858487734694,1,0,1
+99.1,37.7,Right Foot,Normal,1,0,0,0.04345059,Paris Saint-Germain,Ángel Fabián Di María Hernández,40,40,21.026174164597805,0.34672345379224634,1,1,0
+113.1,44.9,Head,Normal,1,0,0,0.07561195,Paris Saint-Germain,Thiago Emiliano da Silva,41,43,8.462860036654279,0.9753959073722942,1,0,1
+105.7,43.1,Right Foot,Normal,0,1,0,0.1595827,Paris Saint-Germain,Zlatan Ibrahimović,45,52,14.632156368765335,0.5011303943750404,1,0,1
+114.9,43.6,Left Foot,Normal,0,1,0,0.6648081,Paris Saint-Germain,Edinson Roberto Cavani Gómez,46,38,6.242595614005439,1.2449434090941522,1,0,1
+106.6,37.2,Left Foot,Half Volley,0,1,0,0.17507629,Paris Saint-Germain,Javier Matías Pastore,46,39,13.689411966918087,0.5332617696887639,1,1,0
+107.2,35.0,Right Foot,Normal,0,0,1,0.4351613,Paris Saint-Germain,Maxwell Scherrer Cabelino Andrade,49,18,13.741906709041505,0.557012029519016,1,1,0
+113.4,36.3,Right Foot,Volley,0,1,1,0.30746105,Paris Saint-Germain,Zlatan Ibrahimović,53,3,7.566372975210774,1.0126526075472455,1,1,0
+109.4,23.8,Right Foot,Normal,0,1,0,0.057693005,Paris Saint-Germain,Edinson Roberto Cavani Gómez,55,25,19.359752064528095,0.6649328885292051,0,1,0
+108.7,57.2,Right Foot,Normal,0,1,0,0.023819009,Paris Saint-Germain,Javier Matías Pastore,67,29,20.57984450864486,0.6264621174246395,0,0,1
+104.8,32.3,Right Foot,Normal,0,1,0,0.58671016,Paris Saint-Germain,Zlatan Ibrahimović,75,12,17.039072744724113,0.4725826470039579,1,1,0
+112.0,50.4,Right Foot,Normal,0,0,0,0.2621347,Paris Saint-Germain,Javier Matías Pastore,76,2,13.12097557348538,0.8581467921149293,0,0,1
+105.2,34.6,Left Foot,Normal,0,0,1,0.20260298,Paris Saint-Germain,Zlatan Ibrahimović,77,34,15.75436447464638,0.4848666595509598,1,1,0
+110.6,53.1,Right Foot,Volley,0,1,0,0.0490616,Paris Saint-Germain,Zlatan Ibrahimović,79,23,16.123585209251697,0.7426038484959068,0,0,1
+105.4,38.3,Right Foot,Half Volley,1,0,0,0.16839604,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,80,24,14.698639392814556,0.4912464011638462,1,1,0
+109.5,34.3,Right Foot,Normal,0,1,0,0.4817113,Paris Saint-Germain,Edinson Roberto Cavani Gómez,80,26,11.947384651043928,0.6708031670148005,1,1,0
+109.8,45.0,Right Foot,Normal,1,1,0,0.12553844,Paris Saint-Germain,Edinson Roberto Cavani Gómez,89,31,11.359577456930344,0.6890273944658628,1,0,1
+97.9,48.4,Left Foot,Normal,0,0,0,0.03815984,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,89,51,23.642546394159822,0.3282424604987615,1,0,1
+104.0,29.6,Right Foot,Normal,0,0,1,0.112456836,Paris Saint-Germain,Edinson Roberto Cavani Gómez,90,33,19.0829767070025,0.44976173405654607,0,1,0
+94.5,32.6,Right Foot,Normal,0,0,1,0.04361412,Paris Saint-Germain,Zlatan Ibrahimović,11,1,26.55202440493003,0.28511163207439433,1,1,0
+113.3,40.7,Head,Normal,1,0,0,0.27007103,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,21,15,6.736467917239719,0.9999478860140727,1,0,1
+99.2,26.9,Right Foot,Normal,0,0,0,0.05978967,Paris Saint-Germain,Edinson Roberto Cavani Gómez,24,8,24.581497106563706,0.348356960497282,0,1,0
+109.1,29.7,Right Foot,Lob,0,1,0,0.37860432,Paris Saint-Germain,Edinson Roberto Cavani Gómez,24,53,14.996666296213974,0.6479015417365124,0,1,0
+96.2,44.2,Left Foot,Normal,1,0,0,0.05799304,Paris Saint-Germain,Zlatan Ibrahimović,27,44,24.167747102284892,0.3051723622718803,1,0,1
+110.2,38.7,Head,Normal,0,0,0,0.054643944,Paris Saint-Germain,Marcos Aoás Corrêa,34,52,9.885848471426211,0.7148561776881799,1,1,0
+107.4,49.4,Left Foot,Volley,1,1,0,0.12599364,Paris Saint-Germain,Blaise Matuidi,36,54,15.720050890502863,0.565393231187457,1,0,1
+103.8,26.6,Right Foot,Normal,0,0,0,0.056423116,Paris Saint-Germain,Zlatan Ibrahimović,38,14,21.023796041628643,0.444391154043015,0,1,0
+107.9,25.7,Left Foot,Normal,0,0,0,0.12515905,Paris Saint-Germain,Edinson Roberto Cavani Gómez,38,53,18.732325002519037,0.5874597244810582,0,1,0
+109.4,31.7,Left Foot,Normal,1,1,1,0.08540717,Paris Saint-Germain,Blaise Matuidi,45,57,13.462912017836256,0.6649328885292051,1,1,0
+118.0,49.6,Right Foot,Volley,1,1,0,0.020889385,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,46,17,9.806120537705011,2.141368403027514,1,0,1
+112.2,40.0,Right Foot,Normal,0,1,1,0.6517175,Paris Saint-Germain,Edinson Roberto Cavani Gómez,48,12,7.799999999999997,0.8774612970150145,1,0,0
+99.5,33.9,Left Foot,Lob,1,0,1,0.22183202,Paris Saint-Germain,Ángel Fabián Di María Hernández,51,41,21.38831456660389,0.35335017879551,1,1,0
+113.0,43.1,Head,Normal,1,0,0,0.16283295,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,53,53,7.6557168181692825,0.9635313430737257,1,0,1
+105.5,41.2,Right Foot,Volley,0,1,1,0.15513325,Paris Saint-Germain,Zlatan Ibrahimović,55,52,14.54957044039445,0.49449834991324176,1,0,1
+89.4,48.5,Right Foot,Lob,0,0,0,0.045847256,Paris Saint-Germain,Zlatan Ibrahimović,64,4,31.758620876857982,0.23808463627066898,1,0,1
+105.6,43.4,Right Foot,Normal,1,1,0,0.1371511,Paris Saint-Germain,Zlatan Ibrahimović,71,41,14.795945390545349,0.4977927416022123,1,0,1
+111.9,29.7,Left Foot,Normal,0,1,1,0.19318242,Paris Saint-Germain,Maxwell Scherrer Cabelino Andrade,75,38,13.103434664239751,0.8487857199499718,0,1,0
+111.9,52.3,Right Foot,Normal,0,1,0,0.14044455,Paris Saint-Germain,Gregory van der Wiel,78,49,14.727525250360287,0.8487857199499718,0,0,1
+106.6,30.3,Left Foot,Normal,0,1,0,0.10903863,Paris Saint-Germain,Layvin Kurzawa,78,52,16.542369842317036,0.5332617696887639,1,1,0
+115.9,45.4,Head,Normal,0,0,0,0.20543325,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,82,59,6.780117993073568,1.457515560516147,1,0,1
+113.3,51.2,Right Foot,Normal,0,0,0,0.21634278,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,85,12,13.051053597315432,0.9999478860140727,0,0,1
+103.4,39.6,Left Foot,Normal,0,1,0,0.18792151,Paris Saint-Germain,Blaise Matuidi,5,10,16.60481857775025,0.43401987539430337,1,1,0
+84.6,24.8,Left Foot,Normal,0,0,0,0.006054224,Paris Saint-Germain,Layvin Kurzawa,7,38,38.52531635171865,0.20604756331280513,0,1,0
+97.2,44.5,Left Foot,Normal,0,0,0,0.04909676,Paris Saint-Germain,Gregory van der Wiel,7,49,23.239836488237174,0.318336796860724,1,0,1
+87.6,30.6,Left Foot,Normal,0,0,0,0.016586503,Paris Saint-Germain,Layvin Kurzawa,33,51,33.73603414748094,0.22497223140100492,1,1,0
+115.0,47.0,Head,Normal,0,0,0,0.093902856,Paris Saint-Germain,Layvin Kurzawa,36,0,8.602325267042627,1.2637624630824713,1,0,1
+88.3,41.8,Right Foot,Normal,0,0,0,0.02337752,Paris Saint-Germain,Hervin Scicchitano Ongenda,42,33,31.75106297433206,0.22989689243512199,1,0,1
+82.0,43.0,Right Foot,Normal,0,0,0,0.007933561,Paris Saint-Germain,Hervin Scicchitano Ongenda,45,31,38.118237105091836,0.19203920882390113,1,0,1
+110.4,36.5,Head,Normal,1,0,0,0.09951289,Paris Saint-Germain,Layvin Kurzawa,46,5,10.21812115802117,0.7284776635273387,1,1,0
+99.7,43.9,Right Foot,Normal,0,0,0,0.07367071,Paris Saint-Germain,Jean-Kévin Augustin,47,5,20.67123605399541,0.35675842831041055,1,0,1
+112.8,39.5,Other,Normal,1,0,0,0.41436857,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,49,26,7.217340230306456,0.9405840589829914,1,1,0
+108.1,40.1,Right Foot,Normal,0,0,1,0.7835,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,55,10,11.900420160649796,0.5967616520006681,1,0,1
+89.5,43.0,Right Foot,Normal,0,0,0,0.024788948,Paris Saint-Germain,Hervin Scicchitano Ongenda,57,26,30.64718584144391,0.23885785203667692,1,0,1
+108.7,34.8,Right Foot,Normal,1,0,1,0.15288496,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,70,55,12.439051410778877,0.6264621174246395,1,1,0
+90.4,37.6,Right Foot,Normal,0,0,0,0.021288106,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,72,45,29.69713790923293,0.24604842533160493,1,1,0
+97.3,45.2,Right Foot,Normal,0,0,0,0.03591525,Paris Saint-Germain,Zlatan Ibrahimović,5,0,23.287979732042025,0.31971544299245214,1,0,1
+106.7,47.0,Right Foot,Normal,1,1,0,0.19074292,Paris Saint-Germain,Blaise Matuidi,8,33,15.02963738750872,0.5370819132981387,1,0,1
+115.7,50.7,Right Foot,Half Volley,0,0,1,0.06900461,Paris Saint-Germain,Zlatan Ibrahimović,14,19,11.531695452100703,1.4103374738471028,0,0,1
+107.2,29.3,Right Foot,Normal,0,1,0,0.13574347,Paris Saint-Germain,Hervin Scicchitano Ongenda,24,1,16.683225107874076,0.557012029519016,0,1,0
+100.8,44.7,Right Foot,Normal,0,0,1,0.08990443,Paris Saint-Germain,Zlatan Ibrahimović,33,29,19.76689151080665,0.37673020187695294,1,0,1
+108.9,42.4,Head,Normal,0,0,0,0.0725269,Paris Saint-Germain,Thiago Emiliano da Silva,39,23,11.356495938448615,0.6370076251165314,1,0,1
+94.5,55.2,Left Foot,Normal,0,0,0,0.025040528,Paris Saint-Germain,Adrien Rabiot,42,57,29.686528931486755,0.28511163207439433,0,0,1
+102.4,43.6,Left Foot,Half Volley,1,0,0,0.08050941,Paris Saint-Germain,Zlatan Ibrahimović,45,29,17.964409258308493,0.41006466087116167,1,0,1
+116.0,36.0,Head,Normal,1,0,1,0.16208136,Paris Saint-Germain,David Luiz Moreira Marinho,47,33,5.656854249492381,1.4820817107661723,1,1,0
+113.1,42.4,Head,Normal,1,0,0,0.09953334,Paris Saint-Germain,David Luiz Moreira Marinho,49,30,7.305477397131557,0.9753959073722942,1,0,1
+114.8,33.6,Right Foot,Volley,0,1,0,0.17200178,Paris Saint-Germain,Zlatan Ibrahimović,49,31,8.246211251235321,1.22660522837624,1,1,0
+104.7,27.8,Left Foot,Normal,0,1,1,0.10623879,Paris Saint-Germain,Zlatan Ibrahimović,81,48,19.568597292601222,0.46960650228639017,0,1,0
+114.5,33.7,Left Foot,Volley,0,1,0,0.14470227,Paris Saint-Germain,Edinson Roberto Cavani Gómez,3,46,8.363013810822027,1.174325946364645,1,1,0
+108.5,27.8,Left Foot,Normal,0,1,0,0.15759662,Paris Saint-Germain,Ángel Fabián Di María Hernández,3,48,16.76573887426379,0.6162491267591,0,1,0
+92.1,42.2,Left Foot,Normal,1,0,0,0.025379011,Paris Saint-Germain,Ángel Fabián Di María Hernández,11,6,27.986603938313063,0.26087593266036563,1,0,1
+91.4,52.0,Right Foot,Half Volley,0,0,0,0.020734306,Paris Saint-Germain,Zlatan Ibrahimović,17,6,31.01548000595831,0.25456044130400274,0,0,1
+108.3,49.8,Right Foot,Normal,0,0,0,0.06487354,Paris Saint-Germain,Edinson Roberto Cavani Gómez,20,51,15.262044423995103,0.6063536783391891,1,0,1
+113.8,50.1,Head,Normal,0,0,0,0.053439654,Paris Saint-Germain,Edinson Roberto Cavani Gómez,21,20,11.85116028074889,1.066546723587709,0,0,1
+108.8,34.3,Right Foot,Overhead Kick,0,1,0,0.06320031,Paris Saint-Germain,Edinson Roberto Cavani Gómez,29,23,12.56702033100926,0.6316923356605161,1,1,0
+106.2,26.7,Right Foot,Normal,0,1,0,0.04735842,Paris Saint-Germain,Ángel Fabián Di María Hernández,32,46,19.16585505527995,0.5184976925653242,0,1,0
+107.0,44.5,Head,Normal,0,0,0,0.0627143,Paris Saint-Germain,Edinson Roberto Cavani Gómez,37,40,13.756816492197604,0.5488694948224784,1,0,1
+109.0,27.2,Left Foot,Normal,0,0,0,0.104841605,Paris Saint-Germain,Zlatan Ibrahimović,38,39,16.877203559831827,0.6424100014274465,0,1,0
+108.3,40.3,Head,Normal,0,0,0,0.09943831,Paris Saint-Germain,Zlatan Ibrahimović,40,16,11.7038455218787,0.6063536783391891,1,0,1
+103.6,53.0,Right Foot,Normal,0,1,0,0.07586647,Paris Saint-Germain,Zlatan Ibrahimović,45,29,20.927493877672028,0.4391452757123717,0,0,1
+112.3,34.9,Head,Normal,0,0,0,0.12313479,Paris Saint-Germain,Edinson Roberto Cavani Gómez,54,54,9.235799911215057,0.8874264180196499,1,1,0
+89.1,42.7,Left Foot,Half Volley,0,0,0,0.021023396,Paris Saint-Germain,Adrien Rabiot,57,21,31.0177368613508,0.23579459819063756,1,0,1
+98.8,39.6,Right Foot,Half Volley,0,1,0,0.052933797,Paris Saint-Germain,Zlatan Ibrahimović,76,2,21.203773249117717,0.3419126911474317,1,1,0
+112.6,33.5,Head,Normal,1,0,0,0.05891092,Paris Saint-Germain,Edinson Roberto Cavani Gómez,79,0,9.849365461794992,0.9186278833123988,1,1,0
+117.5,46.8,Head,Normal,0,0,0,0.17922981,Paris Saint-Germain,Zlatan Ibrahimović,79,1,7.244998274671979,1.9430602390091187,1,0,1
+104.6,40.7,Right Foot,Volley,0,0,0,0.059483137,Paris Saint-Germain,Zlatan Ibrahimović,82,45,15.415900881881674,0.46666692953314254,1,0,1
+100.7,46.9,Right Foot,Half Volley,0,0,0,0.04288813,Paris Saint-Germain,Blaise Matuidi,82,47,20.496341136895627,0.37482373201875147,1,0,1
+110.4,43.0,Right Foot,Volley,0,1,0,0.17979157,Paris Saint-Germain,Jean-Kévin Augustin,86,11,10.05783276854412,0.7284776635273387,1,0,1
+115.0,30.0,Head,Normal,1,0,0,0.044551082,Paris Saint-Germain,David Luiz Moreira Marinho,87,13,11.180339887498949,1.2637624630824713,1,1,0
+116.1,42.6,Head,Normal,1,0,0,0.30622306,Paris Saint-Germain,Thiago Emiliano da Silva,87,42,4.687216658103192,1.5073255797379794,1,0,1
+116.3,32.7,Right Foot,Volley,0,1,0,0.24992338,Paris Saint-Germain,Zlatan Ibrahimović,87,42,8.184130986244048,1.559926868593224,1,1,0
+108.8,43.5,Right Foot,Volley,0,1,0,0.087956294,Paris Saint-Germain,Thiago Emiliano da Silva,8,35,11.73413822996815,0.6316923356605161,1,0,1
+96.2,32.8,Right Foot,Half Volley,0,1,0,0.037726667,Paris Saint-Germain,Zlatan Ibrahimović,9,30,24.8652367774771,0.3051723622718803,1,1,0
+106.6,33.4,Right Foot,Normal,0,0,0,0.46120927,Paris Saint-Germain,Edinson Roberto Cavani Gómez,12,39,14.937201879870278,0.5332617696887639,1,1,0
+113.4,33.4,Right Foot,Normal,0,1,1,0.8974841,Paris Saint-Germain,Edinson Roberto Cavani Gómez,12,41,9.333809511662425,1.0126526075472455,1,1,0
+109.7,37.7,Right Foot,Lob,1,0,1,0.48731616,Paris Saint-Germain,Javier Matías Pastore,16,44,10.553672346628918,0.6828478835720695,1,1,0
+112.2,32.9,Right Foot,Half Volley,0,0,0,0.26996684,Paris Saint-Germain,Edinson Roberto Cavani Gómez,18,16,10.547511554864492,0.8774612970150145,1,1,0
+114.1,29.7,Left Foot,Half Volley,0,1,1,0.18974373,Paris Saint-Germain,Adrien Rabiot,18,18,11.87013058057914,1.110481098696181,0,1,0
+100.5,29.2,Left Foot,Normal,0,0,0,0.052555997,Paris Saint-Germain,Zlatan Ibrahimović,26,11,22.291029585911907,0.37106744002055414,0,1,0
+112.1,26.7,Left Foot,Normal,0,1,0,0.0721631,Paris Saint-Germain,Javier Matías Pastore,39,19,15.46932448428179,0.8677034040995953,0,1,0
+100.8,40.1,Left Foot,Normal,0,0,1,0.081658065,Paris Saint-Germain,Zlatan Ibrahimović,45,22,19.20026041490063,0.37673020187695294,1,0,1
+115.1,46.8,Head,Normal,1,0,0,0.096558236,Paris Saint-Germain,Layvin Kurzawa,48,42,8.381527307120106,1.283078089201606,1,0,1
+107.6,50.6,Left Foot,Volley,0,1,0,0.055259325,Paris Saint-Germain,Zlatan Ibrahimović,51,17,16.313184851524248,0.5740234415522852,0,0,1
+111.1,43.8,Right Foot,Volley,0,1,1,0.17660438,Paris Saint-Germain,Zlatan Ibrahimović,51,52,9.677293009927936,0.7803097239028624,1,0,1
+100.2,39.0,Right Foot,Half Volley,0,1,1,0.07245108,Paris Saint-Germain,Zlatan Ibrahimović,55,0,19.82523644247402,0.36557052223109676,1,1,0
+108.1,32.6,Right Foot,Normal,0,0,0,0.107877426,Paris Saint-Germain,Edinson Roberto Cavani Gómez,60,5,14.01320805525987,0.5967616520006681,1,1,0
+108.2,40.1,Right Foot,Normal,0,0,0,0.7835,Paris Saint-Germain,Edinson Roberto Cavani Gómez,74,24,11.800423721205943,0.6015205881456605,1,0,1
+115.3,40.3,Right Foot,Volley,0,1,1,0.72298133,Paris Saint-Germain,Edinson Roberto Cavani Gómez,74,26,4.70956473572665,1.32326419386673,1,0,1
+86.3,32.4,Right Foot,Normal,1,0,0,0.014806782,Paris Saint-Germain,Zlatan Ibrahimović,77,9,34.546345682285995,0.21636266721708267,1,1,0
+92.6,21.7,Right Foot,Normal,0,0,0,0.007973566,Paris Saint-Germain,David Luiz Moreira Marinho,78,8,32.949203328760476,0.2655811674719823,0,1,0
+106.6,31.1,Left Foot,Normal,1,1,1,0.24555889,Paris Saint-Germain,Zlatan Ibrahimović,87,52,16.086329600005097,0.5332617696887639,1,1,0
+105.0,39.1,Right Foot,Normal,0,0,0,0.48932752,Paris Saint-Germain,Javier Matías Pastore,89,8,15.026975743641833,0.47864736198941576,1,1,0
+103.4,44.5,Right Foot,Normal,0,1,0,0.31253505,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,89,10,17.199127884866716,0.43401987539430337,1,0,1
+50.1,71.7,Right Foot,Normal,0,0,0,0.0034456847,Paris Saint-Germain,Zlatan Ibrahimović,7,24,76.7521986655757,0.10462548528226771,0,0,1
+105.0,31.9,Left Foot,Half Volley,0,1,0,0.08805859,Paris Saint-Germain,Zlatan Ibrahimović,13,54,17.047287174210446,0.47864736198941576,1,1,0
+103.6,42.7,Right Foot,Overhead Kick,1,0,0,0.03350752,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,34,31,16.62077013859467,0.4391452757123717,1,0,1
+110.9,36.5,Head,Normal,1,0,0,0.054164995,Paris Saint-Germain,Thiago Emiliano da Silva,35,11,9.749871794028879,0.7647991942294219,1,1,0
+92.4,40.2,Right Foot,Normal,0,1,0,0.02610068,Paris Saint-Germain,Zlatan Ibrahimović,43,54,27.600724628168724,0.263678969134795,1,0,1
+105.1,44.9,Left Foot,Normal,1,1,1,0.09055618,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,50,37,15.685024705112841,0.48173732827658394,1,0,1
+96.5,47.8,Right Foot,Lob,1,0,0,0.07499769,Paris Saint-Germain,Zlatan Ibrahimović,64,24,24.760654272454108,0.30900685534165184,1,0,1
+102.6,62.6,Left Foot,Normal,1,1,0,0.008365994,Paris Saint-Germain,Ángel Fabián Di María Hernández,2,37,28.522271999264017,0.41464486858471455,0,0,1
+113.8,36.5,Head,Normal,0,0,0,0.1253812,Paris Saint-Germain,David Luiz Moreira Marinho,3,0,7.1196910045310275,1.066546723587709,1,1,0
+112.1,49.2,Head,Normal,1,0,0,0.026763065,Paris Saint-Germain,Thiago Motta,6,8,12.126417442921886,0.8677034040995953,1,0,1
+108.5,54.4,Right Foot,Normal,0,1,1,0.12146763,Paris Saint-Germain,Gregory van der Wiel,11,13,18.42851052038661,0.6162491267591,0,0,1
+113.2,34.7,Head,Normal,0,0,0,0.07072108,Paris Saint-Germain,Edinson Roberto Cavani Gómez,24,39,8.621484790916233,0.987531922196383,1,1,0
+107.6,33.8,Left Foot,Normal,0,1,0,0.1657624,Paris Saint-Germain,Zlatan Ibrahimović,42,47,13.863621460498702,0.5740234415522852,1,1,0
+111.2,31.1,Left Foot,Half Volley,0,0,1,0.2018329,Paris Saint-Germain,Zlatan Ibrahimović,42,48,12.515989773086263,0.7882908755757536,1,1,0
+104.1,32.1,Right Foot,Normal,0,1,1,0.3219359,Paris Saint-Germain,Edinson Roberto Cavani Gómez,45,27,17.75443606538941,0.45249516038704257,1,1,0
+96.7,46.6,Right Foot,Normal,0,0,0,0.051047098,Paris Saint-Germain,Zlatan Ibrahimović,45,57,24.21672975444868,0.31161673260782863,1,0,1
+90.8,43.9,Left Foot,Normal,0,1,0,0.024508093,Paris Saint-Germain,Thiago Motta,53,41,29.459293949448284,0.24938435474275328,1,0,1
+102.4,28.4,Left Foot,Normal,0,0,0,0.032230068,Paris Saint-Germain,Blaise Matuidi,58,51,21.07889940200863,0.41006466087116167,0,1,0
+112.1,30.7,Left Foot,Volley,0,1,1,0.07429926,Paris Saint-Germain,Zlatan Ibrahimović,67,22,12.202458768625284,0.8677034040995953,1,1,0
+95.6,53.7,Right Foot,Normal,0,0,0,0.029271413,Paris Saint-Germain,Gregory van der Wiel,73,31,27.983030572116387,0.29777989521899445,0,0,1
+97.0,48.1,Right Foot,Half Volley,1,1,0,0.03289975,Paris Saint-Germain,Gregory van der Wiel,74,5,24.38462630429263,0.3156145747080703,1,0,1
+99.2,43.3,Right Foot,Half Volley,0,1,0,0.086678125,Paris Saint-Germain,Edinson Roberto Cavani Gómez,81,57,21.06015194627047,0.348356960497282,1,0,1
+115.0,40.6,Head,Normal,1,0,0,0.16076134,Paris Saint-Germain,Thiago Motta,5,31,5.035871324805669,1.2637624630824713,1,0,1
+104.9,54.7,Right Foot,Normal,0,0,0,0.072255485,Paris Saint-Germain,Zlatan Ibrahimović,11,41,21.073680267100947,0.4755960370294988,0,0,1
+109.7,49.0,Head,Normal,1,0,0,0.025306119,Paris Saint-Germain,Thiago Emiliano da Silva,20,22,13.678084661238207,0.6828478835720695,1,0,1
+108.2,34.2,Right Foot,Half Volley,1,1,0,0.057717584,Paris Saint-Germain,Edinson Roberto Cavani Gómez,20,24,13.148383931114877,0.6015205881456605,1,1,0
+110.7,26.5,Left Foot,Normal,0,0,1,0.3384294,Paris Saint-Germain,Layvin Kurzawa,22,46,16.393291310777098,0.7498645976673648,0,1,0
+82.9,31.0,Right Foot,Normal,0,0,0,0.0073762853,Paris Saint-Germain,Zlatan Ibrahimović,26,11,38.176039606014655,0.1966682199283231,1,1,0
+95.5,45.9,Left Foot,Normal,1,0,0,0.06349963,Paris Saint-Germain,Ángel Fabián Di María Hernández,35,58,25.20039682227246,0.29658224276124884,1,0,1
+117.6,32.5,Head,Normal,0,0,0,0.06944868,Paris Saint-Germain,Layvin Kurzawa,38,34,7.874642849044014,1.9807962788020428,1,1,0
+107.9,42.0,Right Foot,Normal,0,1,0,0.5087925,Paris Saint-Germain,Edinson Roberto Cavani Gómez,40,15,12.264175471673578,0.5874597244810582,1,0,1
+103.5,27.8,Left Foot,Half Volley,0,1,0,0.045789126,Paris Saint-Germain,Ángel Fabián Di María Hernández,42,57,20.520477577288496,0.43656777241744393,0,1,0
+113.4,37.8,Head,Normal,0,0,0,0.25219858,Paris Saint-Germain,Zlatan Ibrahimović,44,6,6.95701085237043,1.0126526075472455,1,1,0
+101.5,39.4,Left Foot,Normal,0,0,0,0.26747873,Paris Saint-Germain,Ángel Fabián Di María Hernández,45,56,18.509727172489605,0.39063139192083063,1,1,0
+112.6,32.9,Left Foot,Normal,1,1,1,0.23159935,Paris Saint-Germain,Edinson Roberto Cavani Gómez,47,12,10.25524256173398,0.9186278833123988,1,1,0
+114.0,34.9,Left Foot,Normal,0,1,0,0.49496743,Paris Saint-Germain,Edinson Roberto Cavani Gómez,48,33,7.8746428490440135,1.0954800274318048,1,1,0
+117.5,52.6,Right Foot,Normal,1,1,0,0.014832841,Paris Saint-Germain,Zlatan Ibrahimović,57,18,12.845621822239671,1.9430602390091187,0,0,1
+113.6,41.6,Right Foot,Normal,0,1,1,0.91700184,Paris Saint-Germain,Zlatan Ibrahimović,66,23,6.596969000988262,1.0389651759777436,1,0,1
+99.6,44.2,Right Foot,Normal,1,0,0,0.085670575,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,71,36,20.827865949251745,0.35504621050790935,1,0,1
+115.4,37.1,Left Foot,Half Volley,0,1,0,0.32108843,Paris Saint-Germain,Blaise Matuidi,72,5,5.437830449729003,1.3441684006679369,1,1,0
+101.3,35.6,Right Foot,Normal,1,1,0,0.11226689,Paris Saint-Germain,Edinson Roberto Cavani Gómez,79,39,19.210674116230283,0.38655732513097435,1,1,0
+111.2,28.3,Head,Normal,1,0,0,0.03902051,Paris Saint-Germain,Layvin Kurzawa,81,25,14.640013661195809,0.7882908755757536,0,1,0
+111.1,30.4,Head,Normal,0,0,1,0.04038026,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,86,3,13.090836489697674,0.7803097239028624,1,1,0
+82.2,45.5,Right Foot,Half Volley,0,0,0,0.005660963,Paris Saint-Germain,Zlatan Ibrahimović,1,5,38.19803659875727,0.19304900625713775,1,0,1
+113.5,31.6,Left Foot,Volley,0,1,0,0.13023184,Paris Saint-Germain,Zlatan Ibrahimović,9,10,10.621205204683694,1.0256552167535118,1,1,0
+81.0,34.6,Right Foot,Normal,0,0,0,0.007427754,Paris Saint-Germain,Zlatan Ibrahimović,29,42,39.37207131965501,0.18714419282701483,1,1,0
+103.5,29.6,Left Foot,Normal,1,1,0,0.07347534,Paris Saint-Germain,Zlatan Ibrahimović,34,52,19.504102132628407,0.43656777241744393,0,1,0
+115.2,34.4,Head,Normal,1,0,0,0.13934448,Paris Saint-Germain,Thiago Motta,49,13,7.375635565834309,1.3029064549015714,1,1,0
+93.2,46.3,Right Foot,Normal,1,0,0,0.04454752,Paris Saint-Germain,Zlatan Ibrahimović,51,0,27.530528509274934,0.27145504167243373,1,0,1
+112.4,36.8,Head,Normal,0,0,0,0.08838982,Paris Saint-Germain,Zlatan Ibrahimović,54,35,8.246211251235318,0.8976049283882304,1,1,0
+103.0,33.4,Right Foot,Normal,0,1,0,0.09025807,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,63,45,18.236227680087786,0.4241145315404141,1,1,0
+110.9,42.6,Head,Normal,1,0,0,0.060043387,Paris Saint-Germain,David Luiz Moreira Marinho,72,42,9.464142856064669,0.7647991942294219,1,0,1
+115.7,34.5,Head,Normal,0,0,1,0.211379,Paris Saint-Germain,Zlatan Ibrahimović,72,43,6.981403870282823,1.4103374738471028,1,1,0
+104.7,28.4,Right Foot,Normal,0,0,0,0.04661663,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,83,54,19.200260414900626,0.46960650228639017,0,1,0
+86.7,20.2,Right Foot,Normal,0,0,0,0.0070760464,Paris Saint-Germain,Zlatan Ibrahimović,91,43,38.74183785005559,0.21894102574041532,0,1,0
+118.0,35.3,Head,Normal,0,0,0,0.2306968,Paris Saint-Germain,Thiago Emiliano da Silva,28,54,5.107837115648857,2.141368403027514,1,1,0
+118.9,42.3,Left Foot,Half Volley,0,0,1,0.9368823,Paris Saint-Germain,Thiago Motta,28,55,2.5495097567963874,2.5576765584523593,1,0,1
+80.4,34.8,Right Foot,Normal,0,0,0,0.0076736775,Paris Saint-Germain,Zlatan Ibrahimović,31,5,39.93995493237317,0.1843248260944806,1,1,0
+107.3,31.3,Right Foot,Half Volley,0,1,0,0.0498096,Paris Saint-Germain,Maxwell Scherrer Cabelino Andrade,31,17,15.394154734833611,0.5611721639182045,1,1,0
+109.9,36.8,Head,Normal,0,0,0,0.09158447,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,33,5,10.594810050208542,0.6953151908460652,1,1,0
+114.4,25.9,Left Foot,Volley,0,1,1,0.020228563,Paris Saint-Germain,Maxwell Scherrer Cabelino Andrade,38,9,15.171354586852155,1.15776359022708,0,1,0
+106.1,38.4,Right Foot,Normal,0,0,0,0.17445329,Paris Saint-Germain,Zlatan Ibrahimović,57,4,13.99178330306756,0.5149307160592628,1,1,0
+102.6,54.2,Right Foot,Normal,0,0,0,0.015012047,Paris Saint-Germain,Serge Aurier,61,26,22.458851261807677,0.41464486858471455,0,0,1
+104.1,45.9,Right Foot,Half Volley,0,0,0,0.061152425,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,72,26,16.95936319559199,0.45249516038704257,1,0,1
+98.4,42.4,Right Foot,Normal,0,0,0,0.052003752,Paris Saint-Germain,Javier Matías Pastore,74,30,21.732924331529794,0.33570031332003514,1,0,1
+104.4,51.1,Right Foot,Normal,0,1,0,0.047373164,Paris Saint-Germain,Javier Matías Pastore,75,42,19.146017862730616,0.460894885169555,0,0,1
+109.5,40.6,Head,Normal,0,0,0,0.06923544,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,81,24,10.517128885774863,0.6708031670148005,1,0,1
+91.0,34.4,Left Foot,Normal,0,0,0,0.023670115,Paris Saint-Germain,Ángel Fabián Di María Hernández,88,44,29.535741060620097,0.2510862928212736,1,1,0
+101.0,49.4,Right Foot,Half Volley,0,1,0,0.14360552,Paris Saint-Germain,Zlatan Ibrahimović,12,14,21.198113123577766,0.3806012098206357,1,0,1
+107.9,38.9,Head,Normal,0,0,0,0.07209094,Paris Saint-Germain,Serge Aurier,19,24,12.149897118905981,0.5874597244810582,1,1,0
+112.9,49.2,Right Foot,Half Volley,0,0,0,0.21300957,Paris Saint-Germain,Zlatan Ibrahimović,19,26,11.621101496846157,0.9519300303044739,1,0,1
+116.9,42.1,Left Foot,Normal,0,1,1,0.85981816,Paris Saint-Germain,Edinson Roberto Cavani Gómez,34,31,3.744329045369807,1.7360993587205964,1,0,1
+108.1,40.1,Right Foot,Normal,0,0,1,0.7835,Paris Saint-Germain,Zlatan Ibrahimović,43,53,11.900420160649796,0.5967616520006681,1,0,1
+113.8,34.2,Left Foot,Half Volley,0,1,0,0.09312939,Paris Saint-Germain,Zlatan Ibrahimović,45,22,8.48999411071645,1.066546723587709,1,1,0
+113.8,37.1,Head,Normal,0,0,0,0.26344922,Paris Saint-Germain,Benjamin Stambouli,45,25,6.8447059834590425,1.066546723587709,1,1,0
+112.3,46.1,Head,Normal,0,0,0,0.115978464,Paris Saint-Germain,Zlatan Ibrahimović,50,13,9.823441352194253,0.8874264180196499,1,0,1
+105.0,34.1,Left Foot,Volley,0,1,0,0.084007256,Paris Saint-Germain,Ángel Fabián Di María Hernández,52,56,16.118622769951532,0.47864736198941576,1,1,0
+113.0,39.0,Head,Normal,0,0,0,0.15706013,Paris Saint-Germain,Thiago Motta,53,29,7.0710678118654755,0.9635313430737257,1,1,0
+103.2,43.5,Left Foot,Normal,0,0,0,0.06654184,Paris Saint-Germain,Ángel Fabián Di María Hernández,60,30,17.160710940983765,0.4290109148821801,1,0,1
+113.8,53.7,Right Foot,Normal,0,1,1,0.085491404,Paris Saint-Germain,Zlatan Ibrahimović,60,46,15.037619492459573,1.066546723587709,0,0,1
+107.4,35.8,Left Foot,Half Volley,0,0,0,0.1621519,Paris Saint-Germain,Adrien Rabiot,74,39,13.281566172707189,0.565393231187457,1,1,0
+109.4,26.5,Left Foot,Half Volley,0,1,0,0.05169499,Paris Saint-Germain,Ángel Fabián Di María Hernández,78,17,17.164206943520576,0.6649328885292051,0,1,0
+92.4,38.0,Left Foot,Half Volley,0,0,0,0.022960303,Paris Saint-Germain,Layvin Kurzawa,91,52,27.67236889028476,0.263678969134795,1,1,0
+102.1,53.4,Right Foot,Volley,0,1,0,0.034545027,Paris Saint-Germain,Edinson Roberto Cavani Gómez,92,6,22.36000894454204,0.4033784434852055,0,0,1
+105.8,38.7,Left Foot,Volley,1,1,0,0.071454756,Paris Saint-Germain,Ángel Fabián Di María Hernández,4,34,14.259382875847049,0.5045121470411229,1,1,0
+114.4,49.1,Head,Normal,1,0,0,0.06496587,Paris Saint-Germain,Edinson Roberto Cavani Gómez,5,4,10.685036265731622,1.15776359022708,1,0,1
+108.0,54.1,Right Foot,Normal,1,0,0,0.08528275,Paris Saint-Germain,Serge Aurier,12,55,18.51512894905137,0.592075228949806,0,0,1
+106.3,47.6,Left Foot,Normal,1,0,0,0.08116378,Paris Saint-Germain,Ángel Fabián Di María Hernández,32,26,15.66684397062791,0.522113296196796,1,0,1
+105.6,28.1,Right Foot,Half Volley,1,1,0,0.043724902,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,32,28,18.68073874342233,0.4977927416022123,0,1,0
+106.0,45.3,Right Foot,Volley,0,1,0,0.099566214,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,50,0,14.969635934116766,0.5114114144755499,1,0,1
+102.5,47.1,Left Foot,Volley,0,1,0,0.058951605,Paris Saint-Germain,Ezequiel Iván Lavezzi,73,47,18.885444130334875,0.4123422268477159,1,0,1
+107.9,26.0,Left Foot,Normal,1,0,0,0.07204306,Paris Saint-Germain,Maxwell Scherrer Cabelino Andrade,76,50,18.504323819042938,0.5874597244810582,0,1,0
+103.4,28.7,Right Foot,Normal,0,1,0,0.072740085,Paris Saint-Germain,Edinson Roberto Cavani Gómez,80,8,20.0810856280232,0.43401987539430337,0,1,0
+95.3,45.2,Right Foot,Normal,0,0,0,0.07055698,Paris Saint-Germain,Zlatan Ibrahimović,83,57,25.24143419063188,0.2942154013892247,1,0,1
+98.0,39.2,Right Foot,Normal,0,1,0,0.06500695,Paris Saint-Germain,Adrien Rabiot,83,59,22.01454064930722,0.3297076452783056,1,1,0
+116.7,29.5,Right Foot,Backheel,0,1,0,0.026879793,Paris Saint-Germain,Edinson Roberto Cavani Gómez,84,16,11.006361796706484,1.6741524957597576,0,1,0
+108.4,35.8,Head,Normal,0,0,0,0.09092448,Paris Saint-Germain,Edinson Roberto Cavani Gómez,2,44,12.336936410632903,0.6112626116100494,1,1,0
+115.4,35.6,Head,Normal,1,0,0,0.2358587,Paris Saint-Germain,Edinson Roberto Cavani Gómez,3,6,6.365532185135814,1.3441684006679369,1,1,0
+113.3,40.5,Head,Normal,1,0,0,0.11078654,Paris Saint-Germain,Thiago Emiliano da Silva,18,10,6.718630812896333,0.9999478860140727,1,0,1
+115.7,38.1,Left Foot,Volley,1,1,0,0.6126438,Paris Saint-Germain,Thiago Emiliano da Silva,18,19,4.7010637094172605,1.4103374738471028,1,1,0
+107.3,48.9,Left Foot,Volley,0,1,1,0.17343673,Paris Saint-Germain,Edinson Roberto Cavani Gómez,19,24,15.508062419270825,0.5611721639182045,1,0,1
+92.8,26.2,Left Foot,Normal,0,0,0,0.022345392,Paris Saint-Germain,Adrien Rabiot,33,34,30.500491799313664,0.26751084538137315,0,1,0
+109.9,53.8,Right Foot,Normal,0,0,0,0.062408328,Paris Saint-Germain,Zlatan Ibrahimović,42,7,17.101169550647693,0.6953151908460652,0,0,1
+108.5,27.5,Left Foot,Normal,1,0,0,0.13415334,Paris Saint-Germain,Edinson Roberto Cavani Gómez,44,55,16.98528775146303,0.6162491267591,0,1,0
+110.5,42.6,Head,Normal,0,0,0,0.057607066,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,45,31,9.849365461794989,0.7354760173051574,1,0,1
+101.4,35.3,Right Foot,Normal,1,0,0,0.11294714,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,52,35,19.18462926407492,0.3885838149877073,1,1,0
+111.6,37.4,Right Foot,Volley,1,1,0,0.11643985,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,53,26,8.79317917479225,0.8218212603970584,1,1,0
+105.5,46.4,Left Foot,Normal,1,0,0,0.22487636,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,55,22,15.849605673328279,0.49449834991324176,1,0,1
+108.0,40.0,Right Foot,Normal,0,0,1,0.7835,Paris Saint-Germain,Zlatan Ibrahimović,57,20,12.0,0.592075228949806,1,0,0
+103.8,18.8,Right Foot,Normal,1,0,0,0.009879631,Paris Saint-Germain,Edinson Roberto Cavani Gómez,60,21,26.681079438433525,0.444391154043015,0,1,0
+96.1,27.2,Left Foot,Half Volley,0,0,1,0.017560283,Paris Saint-Germain,Layvin Kurzawa,66,45,27.111805546661778,0.3039150962288951,0,1,0
+109.0,30.0,Left Foot,Normal,1,1,0,0.085943066,Paris Saint-Germain,Zlatan Ibrahimović,72,3,14.866068747318506,0.6424100014274465,1,1,0
+101.9,47.3,Left Foot,Normal,1,0,0,0.057919633,Paris Saint-Germain,Ángel Fabián Di María Hernández,76,11,19.516659550240654,0.3990392016715098,1,0,1
+110.8,32.9,Left Foot,Normal,1,0,0,0.42195505,Paris Saint-Germain,Layvin Kurzawa,77,49,11.62110149684616,0.7572618208881154,1,1,0
+112.2,32.6,Head,Normal,0,0,0,0.05081537,Paris Saint-Germain,Edinson Roberto Cavani Gómez,78,22,10.751744044572487,0.8774612970150145,1,1,0
+91.0,29.4,Right Foot,Normal,0,0,0,0.03834972,Paris Saint-Germain,Zlatan Ibrahimović,81,34,30.876528302255746,0.2510862928212736,0,1,0
+93.8,45.6,Right Foot,Normal,0,0,1,0.033070795,Paris Saint-Germain,Jean-Kévin Augustin,83,18,26.791789787171744,0.27759291022033666,1,0,1
+103.7,37.6,Right Foot,Normal,1,1,0,0.15074049,Paris Saint-Germain,Zlatan Ibrahimović,11,19,16.475739740600417,0.4417528956138643,1,1,0
+93.2,32.6,Right Foot,Normal,0,0,0,0.05884273,Paris Saint-Germain,Zlatan Ibrahimović,21,44,27.802877548915685,0.27145504167243373,1,1,0
+115.9,37.9,Right Foot,Volley,0,1,1,0.48136625,Paris Saint-Germain,Hervin Scicchitano Ongenda,25,11,4.606517122512404,1.457515560516147,1,1,0
+113.5,37.8,Left Foot,Normal,1,1,1,0.47202614,Paris Saint-Germain,Blaise Matuidi,31,45,6.8622153857191055,1.0256552167535118,1,1,0
+107.3,28.9,Left Foot,Normal,0,0,0,0.05419725,Paris Saint-Germain,Zlatan Ibrahimović,35,51,16.867127793433003,0.5611721639182045,0,1,0
+87.4,42.8,Left Foot,Half Volley,0,1,0,0.013872718,Paris Saint-Germain,Adrien Rabiot,69,20,32.72002444986861,0.22360354119337184,1,0,1
+101.3,61.3,Right Foot,Normal,0,0,0,0.009325295,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,69,46,28.34395879195424,0.38655732513097435,0,0,1
+103.0,31.7,Right Foot,Normal,0,0,0,0.16140136,Paris Saint-Germain,Zlatan Ibrahimović,85,37,18.917980864775185,0.4241145315404141,1,1,0
+92.6,30.8,Right Foot,Normal,0,0,0,0.048344146,Paris Saint-Germain,David Luiz Moreira Marinho,5,55,28.903287010303867,0.2655811674719823,1,1,0
+95.8,38.9,Left Foot,Normal,0,0,0,0.050221086,Paris Saint-Germain,Adrien Rabiot,13,53,24.224987100099767,0.3002042344089777,1,1,0
+88.6,39.1,Left Foot,Half Volley,0,0,0,0.017964317,Paris Saint-Germain,Edinson Roberto Cavani Gómez,21,22,31.412895441203766,0.23207378800316103,1,1,0
+103.7,41.8,Left Foot,Half Volley,0,1,0,0.0664733,Paris Saint-Germain,Ezequiel Iván Lavezzi,37,48,16.399085340347487,0.4417528956138643,1,0,1
+96.2,50.8,Left Foot,Normal,1,0,0,0.035350844,Paris Saint-Germain,Edinson Roberto Cavani Gómez,50,56,26.1357992033915,0.3051723622718803,0,0,1
+110.8,45.0,Head,Normal,1,0,0,0.06712011,Paris Saint-Germain,Edinson Roberto Cavani Gómez,56,35,10.470912090166742,0.7572618208881154,1,0,1
+111.9,28.9,Left Foot,Normal,1,1,1,0.101204574,Paris Saint-Germain,Blaise Matuidi,60,0,13.741178988718541,0.8487857199499718,0,1,0
+108.4,59.6,Right Foot,Normal,1,0,0,0.008910541,Paris Saint-Germain,Serge Aurier,61,52,22.775425352778814,0.6112626116100494,0,0,1
+108.6,48.4,Right Foot,Normal,0,0,0,0.37049308,Paris Saint-Germain,Jean-Kévin Augustin,79,43,14.160508465447139,0.6213150141255195,1,0,1
+103.1,33.1,Right Foot,Normal,0,0,0,0.37814203,Paris Saint-Germain,Jean-Kévin Augustin,8,47,18.254314558481788,0.4265488858791839,1,1,0
+89.7,47.0,Left Foot,Half Volley,0,1,0,0.06733867,Paris Saint-Germain,Ángel Fabián Di María Hernández,36,39,31.098070679706158,0.24041937576685124,1,0,1
+91.6,31.8,Right Foot,Normal,1,0,0,0.025998622,Paris Saint-Germain,Javier Matías Pastore,38,48,29.560108254199616,0.2563336201935903,1,1,0
+117.7,33.9,Head,Normal,0,0,0,0.096845984,Paris Saint-Germain,Layvin Kurzawa,40,9,6.519202405202649,2.0194896678481937,1,1,0
+93.9,41.6,Left Foot,Normal,0,1,0,0.046372976,Paris Saint-Germain,Ángel Fabián Di María Hernández,49,2,26.148996156640504,0.2786428005738537,1,0,1
+106.5,45.4,Left Foot,Normal,0,0,0,0.24014987,Paris Saint-Germain,Edinson Roberto Cavani Gómez,55,50,14.539944979263161,0.5294943187831084,1,0,1
+95.5,43.4,Right Foot,Normal,0,0,0,0.060119405,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,64,27,24.734793308212623,0.29658224276124884,1,0,1
+90.2,44.5,Left Foot,Normal,0,0,0,0.024191912,Paris Saint-Germain,Benjamin Stambouli,66,38,30.137849956491586,0.24441354027844167,1,0,1
+111.5,30.9,Left Foot,Normal,0,0,0,0.35431263,Paris Saint-Germain,Edinson Roberto Cavani Gómez,86,5,12.452309022827857,0.8131887906191134,1,1,0
+112.3,32.4,Right Foot,Overhead Kick,0,1,0,0.09504734,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,86,7,10.818964830333819,0.8874264180196499,1,1,0
+112.6,35.3,Head,Normal,0,0,0,0.102163844,Paris Saint-Germain,Marcos Aoás Corrêa,89,38,8.766413177577252,0.9186278833123988,1,1,0
+95.5,35.7,Right Foot,Normal,0,1,0,0.052548457,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,94,16,24.87448491929029,0.29658224276124884,1,1,0
+115.2,43.4,Right Foot,Half Volley,0,1,1,0.40923873,Paris Saint-Germain,Zlatan Ibrahimović,1,56,5.882176467941094,1.3029064549015714,1,0,1
+94.5,44.3,Right Foot,Normal,0,0,0,0.038275834,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,8,18,25.860007733950894,0.28511163207439433,1,0,1
+111.9,28.7,Left Foot,Normal,0,0,0,0.21959808,Paris Saint-Germain,Ángel Fabián Di María Hernández,10,1,13.903237033151665,0.8487857199499718,0,1,0
+109.8,40.3,Head,Normal,1,0,0,0.065355055,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,14,59,10.204410811016972,0.6890273944658628,1,0,1
+111.2,27.9,Left Foot,Normal,0,0,0,0.13192418,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,31,37,14.961617559608987,0.7882908755757536,0,1,0
+96.8,32.6,Right Foot,Volley,0,0,0,0.03492247,Paris Saint-Germain,Ángel Fabián Di María Hernández,40,56,24.351591323771842,0.3129381379578009,1,1,0
+85.0,48.5,Left Foot,Normal,0,0,0,0.006808753,Paris Saint-Germain,Thiago Motta,54,9,36.01735692690401,0.20838548167209153,1,0,1
+92.4,33.7,Left Foot,Normal,0,0,0,0.04758824,Paris Saint-Germain,Ángel Fabián Di María Hernández,58,55,28.309892264012586,0.263678969134795,1,1,0
+112.6,46.0,Right Foot,Half Volley,0,1,0,0.23472151,Paris Saint-Germain,Zlatan Ibrahimović,59,59,9.526804291051647,0.9186278833123988,1,0,1
+105.0,44.9,Left Foot,Normal,0,0,1,0.11668708,Paris Saint-Germain,Ángel Fabián Di María Hernández,70,32,15.78005069700348,0.47864736198941576,1,0,1
+113.6,25.3,Left Foot,Normal,0,1,0,0.022993432,Paris Saint-Germain,Maxwell Scherrer Cabelino Andrade,84,49,16.032778923193572,1.0389651759777436,0,1,0
+109.0,38.8,Head,Normal,1,0,0,0.04475906,Paris Saint-Germain,Marcos Aoás Corrêa,2,56,11.065260954898443,0.6424100014274465,1,1,0
+114.8,50.0,Right Foot,Normal,0,0,1,0.42004138,Paris Saint-Germain,Edinson Roberto Cavani Gómez,5,17,11.271202242884298,1.22660522837624,1,0,1
+83.5,49.1,Right Foot,Normal,0,0,0,0.0072591202,Paris Saint-Germain,Zlatan Ibrahimović,8,55,37.617283261819956,0.19987981025844515,1,0,1
+109.0,54.4,Right Foot,Normal,0,0,0,0.09149981,Paris Saint-Germain,Serge Aurier,17,33,18.120706387997128,0.6424100014274465,0,0,1
+106.0,52.3,Left Foot,Volley,0,1,0,0.038918637,Paris Saint-Germain,Serge Aurier,17,36,18.63571839237758,0.5114114144755499,0,0,1
+104.7,30.1,Right Foot,Normal,0,0,0,0.13825087,Paris Saint-Germain,Jean-Kévin Augustin,23,14,18.223611058184925,0.46960650228639017,1,1,0
+95.1,24.9,Right Foot,Normal,0,0,0,0.041086175,Paris Saint-Germain,Zlatan Ibrahimović,25,10,29.120782956507202,0.2918857710592631,0,1,0
+101.8,38.5,Right Foot,Lob,1,0,0,0.37909007,Paris Saint-Germain,Edinson Roberto Cavani Gómez,53,17,18.26170857285813,0.3969039437606063,1,1,0
+114.3,39.2,Right Foot,Half Volley,1,1,1,0.4225615,Paris Saint-Germain,Zlatan Ibrahimović,54,14,5.755866572463266,1.1416105638124492,1,1,0
+104.1,26.5,Left Foot,Volley,0,1,1,0.040445466,Paris Saint-Germain,Layvin Kurzawa,68,44,20.85809195492244,0.45249516038704257,0,1,0
+99.6,20.3,Left Foot,Lob,1,0,0,0.010854606,Paris Saint-Germain,Ángel Fabián Di María Hernández,72,21,28.35930182497447,0.35504621050790935,0,1,0
+107.9,32.5,Left Foot,Backheel,0,1,0,0.26027814,Paris Saint-Germain,Ángel Fabián Di María Hernández,85,49,14.23587018766327,0.5874597244810582,1,1,0
+97.2,32.4,Left Foot,Normal,0,1,0,0.043340206,Paris Saint-Germain,Benjamin Stambouli,88,24,24.03331021727968,0.318336796860724,1,1,0
+97.0,40.0,Right Foot,Normal,0,0,0,0.059649926,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,90,5,23.0,0.3156145747080703,1,0,0
+100.9,47.8,Left Foot,Normal,0,0,0,0.036604814,Paris Saint-Germain,Ángel Fabián Di María Hernández,90,19,20.63128692059707,0.3786559312439813,1,0,1
+118.6,31.9,Left Foot,Normal,0,0,0,0.03301712,Paris Saint-Germain,Blaise Matuidi,90,33,8.220097323024834,2.4109093277673854,1,1,0
+105.1,26.2,Left Foot,Volley,0,1,0,0.03004826,Paris Saint-Germain,Ángel Fabián Di María Hernández,14,1,20.3088650593774,0.48173732827658394,0,1,0
+104.7,39.9,Left Foot,Normal,0,0,1,0.12581249,Paris Saint-Germain,Ángel Fabián Di María Hernández,15,57,15.300326793895609,0.46960650228639017,1,1,0
+107.4,39.1,Right Foot,Half Volley,0,1,0,0.17405199,Paris Saint-Germain,Thiago Motta,18,44,12.632101962856375,0.565393231187457,1,1,0
+103.2,32.3,Right Foot,Normal,1,0,0,0.077184804,Paris Saint-Germain,Zlatan Ibrahimović,21,52,18.48053029542172,0.4290109148821801,1,1,0
+116.4,48.7,Right Foot,Half Volley,0,1,0,0.17688367,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,21,54,9.41541289588513,1.5873248761142005,1,0,1
+113.7,38.3,Right Foot,Volley,1,1,0,0.40751082,Paris Saint-Germain,Zlatan Ibrahimović,21,56,6.525335240430178,1.0525922912360766,1,1,0
+115.4,38.2,Right Foot,Overhead Kick,1,1,0,0.3183872,Paris Saint-Germain,Zlatan Ibrahimović,21,58,4.939635614091381,1.3441684006679369,1,1,0
+115.9,31.1,Head,Normal,0,0,0,0.054926645,Paris Saint-Germain,Thiago Emiliano da Silva,25,15,9.798979538707075,1.457515560516147,1,1,0
+93.5,37.2,Left Foot,Normal,0,0,0,0.033391494,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,31,12,26.64751395533925,0.2744898836677707,1,1,0
+97.6,54.1,Right Foot,Half Volley,0,1,0,0.020946974,Paris Saint-Germain,Serge Aurier,31,14,26.46828290615015,0.32392333613735924,0,0,1
+94.5,38.6,Right Foot,Half Volley,0,1,1,0.031670984,Paris Saint-Germain,Zlatan Ibrahimović,35,6,25.538402455909416,0.28511163207439433,1,1,0
+110.6,34.1,Head,Normal,1,0,0,0.07816297,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,44,25,11.098198051936183,0.7426038484959068,1,1,0
+113.5,44.7,Left Foot,Lob,0,1,1,0.18465468,Paris Saint-Germain,Ángel Fabián Di María Hernández,49,30,8.021221852062192,1.0256552167535118,1,0,1
+105.3,40.7,Right Foot,Half Volley,1,0,0,0.053359017,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,52,59,14.71665722914005,0.48803609725775016,1,0,1
+113.2,37.3,Head,Normal,0,0,0,0.23062281,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,55,23,7.316419889536137,0.987531922196383,1,1,0
+97.4,33.9,Right Foot,Normal,0,0,0,0.07789042,Paris Saint-Germain,Zlatan Ibrahimović,62,21,23.40875904442608,0.32110597906708793,1,1,0
+102.1,46.5,Right Foot,Half Volley,0,1,0,0.15214436,Paris Saint-Germain,Ezequiel Iván Lavezzi,75,37,19.04363410696604,0.4033784434852055,1,0,1
+106.8,35.2,Right Foot,Normal,1,0,0,0.13269903,Paris Saint-Germain,Ezequiel Iván Lavezzi,80,3,14.045639892863552,0.5409558343915415,1,1,0
+105.4,34.5,Right Foot,Half Volley,1,0,0,0.22851779,Paris Saint-Germain,Zlatan Ibrahimović,3,21,15.601602481796537,0.4912464011638462,1,1,0
+111.7,49.5,Right Foot,Half Volley,0,1,1,0.19156037,Paris Saint-Germain,Zlatan Ibrahimović,10,38,12.615070352558481,0.8306282144307795,1,0,1
+115.6,39.1,Head,Normal,0,0,1,0.423238,Paris Saint-Germain,Serge Aurier,16,12,4.491102314577129,1.3876868436988574,1,1,0
+109.3,27.9,Right Foot,Normal,1,0,0,0.15802227,Paris Saint-Germain,Edinson Roberto Cavani Gómez,20,41,16.152399202595262,0.6591607440326119,0,1,0
+101.7,29.1,Left Foot,Normal,1,0,0,0.10060252,Paris Saint-Germain,Ángel Fabián Di María Hernández,46,45,21.300234740490534,0.3947911196997616,0,1,0
+116.1,42.6,Head,Normal,0,0,0,0.20592834,Paris Saint-Germain,David Luiz Moreira Marinho,54,59,4.687216658103192,1.5073255797379794,1,0,1
+113.5,34.7,Left Foot,Half Volley,0,1,1,0.24778873,Paris Saint-Germain,Edinson Roberto Cavani Gómez,60,36,8.3868945385047,1.0256552167535118,1,1,0
+87.5,47.3,Right Foot,Normal,0,0,0,0.02712808,Paris Saint-Germain,David Luiz Moreira Marinho,73,20,33.3097583299549,0.22428580699034711,1,0,1
+108.0,40.0,Right Foot,Normal,0,0,1,0.7835,Paris Saint-Germain,Zlatan Ibrahimović,76,42,12.0,0.592075228949806,1,0,0
+97.6,48.7,Right Foot,Normal,1,1,0,0.05632153,Paris Saint-Germain,Edinson Roberto Cavani Gómez,85,3,24.030189345904045,0.32392333613735924,1,0,1
+104.9,50.5,Right Foot,Normal,1,0,1,0.26904482,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,90,29,18.39184601936412,0.4755960370294988,0,0,1
+81.2,49.5,Left Foot,Normal,0,0,1,0.008475669,Paris Saint-Germain,Ángel Fabián Di María Hernández,5,43,39.946088669605686,0.18810318936008472,1,0,1
+94.7,51.1,Right Foot,Normal,1,0,0,0.026732286,Paris Saint-Germain,Gregory van der Wiel,8,44,27.627884464793894,0.2873347118384468,0,0,1
+104.6,50.9,Left Foot,Normal,1,1,0,0.06990604,Paris Saint-Germain,Ángel Fabián Di María Hernández,10,1,18.86716724895394,0.46666692953314254,0,0,1
+115.8,36.7,Head,Normal,0,0,1,0.57664716,Paris Saint-Germain,Zlatan Ibrahimović,17,13,5.341348144429458,1.4336073198863468,1,1,0
+103.6,24.7,Left Foot,Normal,0,1,0,0.04341521,Paris Saint-Germain,Layvin Kurzawa,21,44,22.42877615921119,0.4391452757123717,0,1,0
+115.1,26.2,Right Foot,Half Volley,0,0,0,0.024483314,Paris Saint-Germain,Zlatan Ibrahimović,23,54,14.644111444536335,1.283078089201606,0,1,0
+108.7,41.4,Head,Normal,1,0,0,0.053679626,Paris Saint-Germain,Zlatan Ibrahimović,27,21,11.386395390991828,0.6264621174246395,1,0,1
+101.1,46.3,Left Foot,Half Volley,0,0,0,0.063927345,Paris Saint-Germain,Ángel Fabián Di María Hernández,31,28,19.922349259060795,0.3825663330715833,1,0,1
+102.0,26.5,Right Foot,Normal,0,0,0,0.04832297,Paris Saint-Germain,Edinson Roberto Cavani Gómez,49,45,22.5,0.40119724769543524,0,1,0
+108.1,27.0,Left Foot,Normal,0,0,0,0.110255376,Paris Saint-Germain,Edinson Roberto Cavani Gómez,57,30,17.624131184259838,0.5967616520006681,0,1,0
+108.9,45.0,Head,Normal,1,0,0,0.04404396,Paris Saint-Germain,Zlatan Ibrahimović,61,17,12.174152947946721,0.6370076251165314,1,0,1
+114.7,32.4,Head,Normal,0,0,1,0.08218838,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,65,53,9.2655275079188,1.2087326904373046,1,1,0
+98.0,53.5,Right Foot,Normal,0,0,0,0.042511374,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,73,56,25.811818998280614,0.3297076452783056,0,0,1
+107.8,35.3,Right Foot,Half Volley,0,1,1,0.14887568,Paris Saint-Germain,Zlatan Ibrahimović,73,57,13.074020039758242,0.5829135889557341,1,1,0
+108.6,32.9,Right Foot,Half Volley,0,0,1,0.36713967,Paris Saint-Germain,Ezequiel Iván Lavezzi,77,25,13.43018987207553,0.6213150141255195,1,1,0
+90.8,35.5,Right Foot,Normal,0,0,0,0.04249598,Paris Saint-Germain,Ezequiel Iván Lavezzi,2,46,29.544711878777903,0.24938435474275328,1,1,0
+89.5,41.8,Left Foot,Normal,0,0,0,0.019769037,Paris Saint-Germain,Maxwell Scherrer Cabelino Andrade,9,39,30.553068585659283,0.23885785203667692,1,0,1
+101.6,31.8,Right Foot,Normal,1,0,0,0.03064459,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,10,34,20.144478151592814,0.3927003824308198,1,1,0
+112.8,25.5,Left Foot,Normal,0,0,0,0.047583345,Paris Saint-Germain,Ezequiel Iván Lavezzi,16,51,16.18919392681427,0.9405840589829914,0,1,0
+87.8,26.5,Left Foot,Normal,1,0,0,0.0071094735,Paris Saint-Germain,Adrien Rabiot,19,41,34.91546935099112,0.22635770842518843,0,1,0
+91.7,58.9,Left Foot,Normal,0,0,0,0.00835587,Paris Saint-Germain,Ángel Fabián Di María Hernández,36,17,34.03086834037592,0.2572294542115021,0,0,1
+111.8,27.1,Left Foot,Normal,1,0,0,0.0742182,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,42,24,15.28561415187496,0.8396146447545584,0,1,0
+113.1,36.2,Head,Normal,0,0,0,0.16523466,Paris Saint-Germain,Serge Aurier,42,56,7.877182237323195,0.9753959073722942,1,1,0
+100.9,32.4,Left Foot,Half Volley,1,1,0,0.056033928,Paris Saint-Germain,Ángel Fabián Di María Hernández,55,16,20.556507485465517,0.3786559312439813,1,1,0
+108.1,35.1,Left Foot,Backheel,0,1,0,0.08956666,Paris Saint-Germain,Ángel Fabián Di María Hernández,57,21,12.86934341759517,0.5967616520006681,1,1,0
+96.1,23.7,Right Foot,Normal,0,0,0,0.024924263,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,61,39,28.929223978530782,0.3039150962288951,0,1,0
+104.2,33.8,Left Foot,Volley,1,1,1,0.07923591,Paris Saint-Germain,Ángel Fabián Di María Hernández,74,42,16.972919607421698,0.4552614354411628,1,1,0
+91.6,49.9,Left Foot,Normal,1,0,0,0.026581995,Paris Saint-Germain,Ángel Fabián Di María Hernández,78,8,30.07607022202203,0.2563336201935903,1,0,1
+104.0,46.5,Right Foot,Normal,0,1,0,0.07370942,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,1,38,17.269916039170543,0.44976173405654607,1,0,1
+111.5,47.7,Head,Normal,1,0,0,0.04916204,Paris Saint-Germain,Adrien Rabiot,14,24,11.469088891450795,0.8131887906191134,1,0,1
+111.2,26.4,Right Foot,Normal,0,0,0,0.06364755,Paris Saint-Germain,Javier Matías Pastore,16,36,16.198765385053267,0.7882908755757536,0,1,0
+109.2,49.4,Right Foot,Normal,0,0,1,0.9640861,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,56,40,14.31782106327635,0.6534843869413643,1,0,1
+96.1,34.1,Right Foot,Normal,0,0,0,0.07618376,Paris Saint-Germain,Edinson Roberto Cavani Gómez,89,16,24.617473469062585,0.3039150962288951,1,1,0
+104.9,41.9,Right Foot,Normal,0,1,0,0.18843307,Paris Saint-Germain,Edinson Roberto Cavani Gómez,93,17,15.219066988485194,0.4755960370294988,1,0,1
+83.1,46.1,Right Foot,Normal,0,0,0,0.006788716,Paris Saint-Germain,Zlatan Ibrahimović,12,37,37.40080213043566,0.19772725863877352,1,0,1
+83.8,48.5,Right Foot,Normal,1,0,0,0.0067304666,Paris Saint-Germain,Javier Matías Pastore,19,30,37.1845397981473,0.2015251288648791,1,0,1
+108.3,42.7,Head,Diving Header,0,0,0,0.1167561,Paris Saint-Germain,Javier Matías Pastore,20,44,12.007497657713705,0.6063536783391891,1,0,1
+90.5,29.9,Right Foot,Normal,0,1,0,0.022452904,Paris Saint-Germain,Zlatan Ibrahimović,35,25,31.181084009379788,0.24687405536904072,0,1,0
+118.8,45.6,Right Foot,Volley,0,1,0,0.16135186,Paris Saint-Germain,Zlatan Ibrahimović,39,58,5.727128425310544,2.5079436818533534,1,0,1
+108.3,44.7,Right Foot,Volley,0,1,0,0.14021301,Paris Saint-Germain,Edinson Roberto Cavani Gómez,46,51,12.60872713639248,0.6063536783391891,1,0,1
+113.9,33.4,Head,Normal,1,0,0,0.09774693,Paris Saint-Germain,Zlatan Ibrahimović,55,48,8.987213138676525,1.0808390005411692,1,1,0
+102.3,28.4,Right Foot,Volley,0,1,0,0.042774208,Paris Saint-Germain,Edinson Roberto Cavani Gómez,59,27,21.162466774929623,0.40781176907282013,0,1,0
+108.7,41.9,Head,Normal,0,0,0,0.039134357,Paris Saint-Germain,Adrien Rabiot,62,53,11.45862120850497,0.6264621174246395,1,0,1
+112.6,47.5,Right Foot,Normal,1,1,1,0.34961104,Paris Saint-Germain,Zlatan Ibrahimović,71,24,10.536128321162384,0.9186278833123988,1,0,1
+110.8,43.7,Right Foot,Normal,0,1,1,0.4084296,Paris Saint-Germain,Zlatan Ibrahimović,82,13,9.916148445843278,0.7572618208881154,1,0,1
+100.3,44.3,Right Foot,Half Volley,0,1,0,0.063683204,Paris Saint-Germain,Edinson Roberto Cavani Gómez,88,14,20.163829001457042,0.3673848477707634,1,0,1
+106.6,44.0,Head,Normal,0,0,0,0.06728822,Paris Saint-Germain,Ángel Fabián Di María Hernández,10,11,13.984276885130678,0.5332617696887639,1,0,1
+105.2,57.5,Right Foot,Normal,0,0,0,0.040201165,Paris Saint-Germain,Zlatan Ibrahimović,11,15,22.919205919926632,0.4848666595509598,0,0,1
+106.9,29.8,Right Foot,Normal,0,1,0,0.10075281,Paris Saint-Germain,Zlatan Ibrahimović,18,22,16.602710622064095,0.5448846468926428,0,1,0
+102.8,40.8,Right Foot,Half Volley,0,1,0,0.05089525,Paris Saint-Germain,Zlatan Ibrahimović,22,11,17.21859460002471,0.41932702902652264,1,0,1
+112.6,44.7,Right Foot,Half Volley,0,1,0,0.16949627,Paris Saint-Germain,Zlatan Ibrahimović,22,12,8.766413177577252,0.9186278833123988,1,0,1
+101.6,51.8,Left Foot,Normal,0,0,0,0.08709055,Paris Saint-Germain,Ángel Fabián Di María Hernández,25,9,21.858636736997124,0.3927003824308198,0,0,1
+104.5,52.4,Left Foot,Normal,0,0,0,0.08708111,Paris Saint-Germain,Ángel Fabián Di María Hernández,28,16,19.84968513604183,0.46376327121584243,0,0,1
+108.1,40.1,Right Foot,Normal,0,0,1,0.7835,Paris Saint-Germain,Zlatan Ibrahimović,40,42,11.900420160649796,0.5967616520006681,1,0,1
+108.1,40.1,Right Foot,Normal,0,0,1,0.7835,Paris Saint-Germain,Zlatan Ibrahimović,43,42,11.900420160649796,0.5967616520006681,1,0,1
+113.2,53.8,Right Foot,Normal,0,0,0,0.06250915,Paris Saint-Germain,Serge Aurier,49,25,15.384407690905746,0.987531922196383,0,0,1
+103.7,48.5,Left Foot,Normal,0,1,0,0.12094896,Paris Saint-Germain,Ángel Fabián Di María Hernández,63,46,18.383144453547654,0.4417528956138643,1,0,1
+107.6,25.6,Left Foot,Half Volley,1,1,0,0.045516007,Paris Saint-Germain,Edinson Roberto Cavani Gómez,65,48,19.003157632351527,0.5740234415522852,0,1,0
+114.8,37.2,Head,Normal,0,0,0,0.22063482,Paris Saint-Germain,Serge Aurier,67,29,5.905929224093362,1.22660522837624,1,1,0
+93.3,34.6,Left Foot,Normal,0,0,0,0.032252807,Paris Saint-Germain,Blaise Matuidi,69,9,27.240594707164526,0.2724592179741034,1,1,0
+113.2,40.6,Right Foot,Normal,0,1,0,0.5290182,Paris Saint-Germain,Javier Matías Pastore,77,11,6.826419266350402,0.987531922196383,1,0,1
+103.8,23.3,Left Foot,Half Volley,0,0,0,0.030649405,Paris Saint-Germain,Maxwell Scherrer Cabelino Andrade,77,15,23.26649952184471,0.444391154043015,0,1,0
+108.6,25.0,Right Foot,Normal,1,0,0,0.02161513,Paris Saint-Germain,Zlatan Ibrahimović,19,42,18.840382161729103,0.6213150141255195,0,1,0
+95.6,44.2,Right Foot,Half Volley,0,1,0,0.03365926,Paris Saint-Germain,Javier Matías Pastore,23,53,24.7588368062799,0.29777989521899445,1,0,1
+104.9,58.9,Left Foot,Normal,0,0,0,0.009470403,Paris Saint-Germain,Ángel Fabián Di María Hernández,24,59,24.19132075766017,0.4755960370294988,0,0,1
+113.2,36.7,Head,Normal,1,0,0,0.1628035,Paris Saint-Germain,Serge Aurier,25,25,7.5584389922787585,0.987531922196383,1,1,0
+111.1,38.0,Right Foot,Normal,0,0,0,0.18324852,Paris Saint-Germain,Serge Aurier,25,27,9.121951545584974,0.7803097239028624,1,1,0
+83.0,46.6,Right Foot,Normal,0,0,0,0.006474244,Paris Saint-Germain,Zlatan Ibrahimović,44,20,37.58403916558198,0.19719632201809784,1,0,1
+108.3,42.0,Left Foot,Volley,1,1,0,0.08393007,Paris Saint-Germain,Ángel Fabián Di María Hernández,47,13,11.86970934774732,0.6063536783391891,1,0,1
+115.0,43.4,Right Foot,Half Volley,0,0,1,0.5237891,Paris Saint-Germain,Zlatan Ibrahimović,47,15,6.046486583132388,1.2637624630824713,1,0,1
+90.4,33.5,Right Foot,Normal,0,0,0,0.0344217,Paris Saint-Germain,Zlatan Ibrahimović,57,32,30.305280068001345,0.24604842533160493,1,1,0
+105.0,26.3,Left Foot,Half Volley,1,1,0,0.051465802,Paris Saint-Germain,Ángel Fabián Di María Hernández,63,42,20.314772949752598,0.47864736198941576,0,1,0
+111.8,44.0,Head,Normal,0,0,0,0.092202984,Paris Saint-Germain,Zlatan Ibrahimović,69,28,9.123595782365637,0.8396146447545584,1,0,1
+113.4,50.6,Head,Normal,0,0,1,0.053787798,Paris Saint-Germain,Edinson Roberto Cavani Gómez,72,20,12.486793023030371,1.0126526075472455,0,0,1
+99.9,35.1,Left Foot,Lob,0,1,1,0.25825605,Paris Saint-Germain,Ángel Fabián Di María Hernández,79,9,20.688644228175026,0.3602323476159526,1,1,0
+102.4,30.6,Right Foot,Normal,0,1,0,0.10629551,Paris Saint-Germain,Ezequiel Iván Lavezzi,87,58,19.952944644838762,0.41006466087116167,1,1,0
+111.2,42.8,Right Foot,Overhead Kick,0,1,1,0.12910184,Paris Saint-Germain,Serge Aurier,89,51,9.234717104492153,0.7882908755757536,1,0,1
+112.7,40.9,Right Foot,Volley,0,1,0,0.19729528,Paris Saint-Germain,Edinson Roberto Cavani Gómez,3,18,7.355270219373313,0.9294857976294623,1,0,1
+87.0,47.1,Left Foot,Normal,1,0,0,0.022628156,Paris Saint-Germain,Ángel Fabián Di María Hernández,10,25,33.755147755564636,0.22091532042133943,1,0,1
+98.8,38.8,Right Foot,Normal,0,0,1,0.053596463,Paris Saint-Germain,Javier Matías Pastore,17,9,21.2339351039792,0.3419126911474317,1,1,0
+102.2,27.2,Left Foot,Normal,0,1,0,0.055520926,Paris Saint-Germain,Zlatan Ibrahimović,18,49,21.924415613648634,0.405583158274189,0,1,0
+111.6,40.2,Head,Normal,0,0,0,0.1199959,Paris Saint-Germain,Thiago Motta,20,27,8.402380615040009,0.8218212603970584,1,0,1
+93.0,42.1,Right Foot,Normal,0,0,0,0.03992702,Paris Saint-Germain,Zlatan Ibrahimović,25,47,27.081543530604012,0.269468598987303,1,0,1
+87.5,33.4,Right Foot,Normal,0,0,0,0.025260389,Paris Saint-Germain,Zlatan Ibrahimović,48,49,33.16338342208165,0.22428580699034711,1,1,0
+116.6,27.6,Right Foot,Normal,1,0,0,0.033596348,Paris Saint-Germain,Zlatan Ibrahimović,50,21,12.857682528356344,1.6444174470652353,0,1,0
+114.9,36.3,Head,Normal,1,0,0,0.1326891,Paris Saint-Germain,Marcos Aoás Corrêa,52,53,6.300793600809342,1.2449434090941522,1,1,0
+110.3,34.6,Head,Normal,0,0,0,0.06163326,Paris Saint-Germain,Edinson Roberto Cavani Gómez,62,22,11.101801655587261,0.721605457774023,1,1,0
+113.1,53.6,Right Foot,Normal,0,0,0,0.09552083,Paris Saint-Germain,Javier Matías Pastore,65,39,15.250245899656836,0.9753959073722942,0,0,1
+93.6,31.1,Left Foot,Normal,0,0,0,0.033653416,Paris Saint-Germain,Ángel Fabián Di María Hernández,71,26,27.859827709445735,0.27551653787952857,1,1,0
+103.0,53.6,Left Foot,Half Volley,0,1,0,0.025662007,Paris Saint-Germain,Ángel Fabián Di María Hernández,75,3,21.770622407271688,0.4241145315404141,0,0,1
+110.1,56.0,Left Foot,Normal,1,0,0,0.039500028,Paris Saint-Germain,Zlatan Ibrahimović,75,50,18.81515346735179,0.7082267039629738,0,0,1
+116.2,44.1,Left Foot,Normal,1,1,1,0.58442515,Paris Saint-Germain,Ángel Fabián Di María Hernández,75,52,5.590169943749474,1.5332672201230346,1,0,1
+116.6,30.5,Left Foot,Normal,0,1,0,0.16451111,Paris Saint-Germain,Maxwell Scherrer Cabelino Andrade,77,55,10.090094152187087,1.6444174470652353,1,1,0
+109.5,27.9,Right Foot,Normal,1,0,1,0.070202686,Paris Saint-Germain,Zlatan Ibrahimović,82,46,16.020611723651506,0.6708031670148005,0,1,0
+108.1,40.1,Right Foot,Normal,0,0,0,0.7835,Paris Saint-Germain,Zlatan Ibrahimović,86,3,11.900420160649796,0.5967616520006681,1,0,1
+112.8,27.8,Left Foot,Normal,0,1,0,0.13866714,Paris Saint-Germain,Edinson Roberto Cavani Gómez,86,5,14.166156853571826,0.9405840589829914,0,1,0
+109.5,39.7,Head,Normal,1,0,0,0.054878768,Paris Saint-Germain,Layvin Kurzawa,5,4,10.504284840006958,0.6708031670148005,1,1,0
+99.4,54.7,Right Foot,Half Volley,1,0,0,0.021769846,Paris Saint-Germain,Marco Verratti,7,5,25.30711362443374,0.35167010714039376,0,0,1
+115.9,28.7,Right Foot,Lob,1,0,0,0.096047476,Paris Saint-Germain,Ezequiel Iván Lavezzi,17,40,12.020815280171307,1.457515560516147,0,1,0
+99.7,38.0,Left Foot,Normal,1,0,0,0.050751276,Paris Saint-Germain,Javier Matías Pastore,37,48,20.398284241572863,0.35675842831041055,1,1,0
+111.5,36.4,Head,Normal,1,0,0,0.09300613,Paris Saint-Germain,Zlatan Ibrahimović,42,42,9.230926280715279,0.8131887906191134,1,1,0
+104.8,26.4,Left Foot,Half Volley,0,1,0,0.06177168,Paris Saint-Germain,Zlatan Ibrahimović,46,32,20.39607805437114,0.4725826470039579,0,1,0
+97.0,43.6,Left Foot,Normal,0,0,0,0.0476394,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,48,4,23.280034364235807,0.3156145747080703,1,0,1
+106.3,27.0,Left Foot,Normal,0,0,0,0.057122637,Paris Saint-Germain,Ezequiel Iván Lavezzi,50,3,18.886238376129853,0.522113296196796,0,1,0
+107.2,37.4,Head,Normal,0,0,0,0.025977578,Paris Saint-Germain,Marcos Aoás Corrêa,58,38,13.061393493804554,0.557012029519016,1,1,0
+114.0,32.4,Right Foot,Half Volley,1,0,0,0.12681621,Paris Saint-Germain,Zlatan Ibrahimović,58,40,9.682974749528164,1.0954800274318048,1,1,0
+91.0,36.6,Right Foot,Normal,1,0,0,0.03742424,Paris Saint-Germain,Marco Verratti,61,4,29.198630104852523,0.2510862928212736,1,1,0
+109.7,36.1,Head,Normal,1,0,0,0.37723467,Paris Saint-Germain,Zlatan Ibrahimović,61,6,11.01362792180669,0.6828478835720695,1,1,0
+104.8,26.2,Left Foot,Normal,1,0,0,0.023674373,Paris Saint-Germain,Zlatan Ibrahimović,63,52,20.529978080845584,0.4725826470039579,0,1,0
+93.2,27.0,Right Foot,Normal,1,0,0,0.014191899,Paris Saint-Germain,Zlatan Ibrahimović,69,57,29.78657415682441,0.27145504167243373,0,1,0
+101.9,49.6,Right Foot,Volley,1,1,0,0.029679283,Paris Saint-Germain,Javier Matías Pastore,75,58,20.488289338058458,0.3990392016715098,1,0,1
+109.8,37.5,Right Foot,Volley,0,1,1,0.16450883,Paris Saint-Germain,Edinson Roberto Cavani Gómez,83,15,10.501904589168578,0.6890273944658628,1,1,0
+109.6,38.9,Head,Normal,0,0,0,0.057340596,Paris Saint-Germain,Thiago Emiliano da Silva,88,41,10.45801128322207,0.676773999779575,1,1,0
+102.3,56.4,Left Foot,Normal,0,0,0,0.026169293,Paris Saint-Germain,Ángel Fabián Di María Hernández,4,4,24.12985702402731,0.40781176907282013,0,0,1
+101.7,57.0,Left Foot,Normal,0,0,0,0.036685836,Paris Saint-Germain,Serge Aurier,12,5,24.97779013443743,0.3947911196997616,0,0,1
+92.6,41.4,Left Foot,Normal,0,1,0,0.028459564,Paris Saint-Germain,Ángel Fabián Di María Hernández,22,15,27.43574311003805,0.2655811674719823,1,0,1
+91.6,43.0,Left Foot,Normal,0,0,0,0.030788377,Paris Saint-Germain,Ángel Fabián Di María Hernández,23,56,28.558011135231393,0.2563336201935903,1,0,1
+105.7,44.7,Right Foot,Half Volley,0,0,1,0.1874581,Paris Saint-Germain,Edinson Roberto Cavani Gómez,26,12,15.05257453062432,0.5011303943750404,1,0,1
+98.5,25.5,Right Foot,Normal,0,0,1,0.049293023,Paris Saint-Germain,Edinson Roberto Cavani Gómez,33,34,25.93260495977988,0.33723234889513215,0,1,0
+113.8,35.1,Left Foot,Half Volley,0,0,0,0.14737606,Paris Saint-Germain,Edinson Roberto Cavani Gómez,37,39,7.902531240052141,1.066546723587709,1,1,0
+116.8,48.9,Head,Normal,1,0,0,0.084021986,Paris Saint-Germain,Thiago Motta,38,6,9.457801012920498,1.7047066481159534,1,0,1
+103.2,55.4,Right Foot,Normal,0,0,0,0.017162386,Paris Saint-Germain,Serge Aurier,40,43,22.790348834539586,0.4290109148821801,0,0,1
+108.8,33.4,Left Foot,Normal,0,0,0,0.4427464,Paris Saint-Germain,Ángel Fabián Di María Hernández,41,16,13.000000000000004,0.6316923356605161,1,1,0
+95.8,39.3,Right Foot,Volley,0,1,0,0.026570177,Paris Saint-Germain,Blaise Matuidi,49,56,24.210121850168374,0.3002042344089777,1,1,0
+93.3,35.1,Left Foot,Normal,1,0,0,0.025839143,Paris Saint-Germain,Ángel Fabián Di María Hernández,54,15,27.145902084845147,0.2724592179741034,1,1,0
+112.8,54.5,Left Foot,Normal,0,0,0,0.037821755,Paris Saint-Germain,Ángel Fabián Di María Hernández,63,30,16.18919392681427,0.9405840589829914,0,0,1
+112.1,34.7,Head,Normal,1,0,0,0.060411923,Paris Saint-Germain,Thiago Emiliano da Silva,75,11,9.513148795220227,0.8677034040995953,1,1,0
+94.8,41.4,Left Foot,Normal,1,0,0,0.057879854,Paris Saint-Germain,Ezequiel Iván Lavezzi,82,4,25.23885892824793,0.28845921237714,1,0,1
+91.8,27.0,Left Foot,Normal,0,0,0,0.019350378,Paris Saint-Germain,Ángel Fabián Di María Hernández,86,29,31.052214091751978,0.25813153677814044,0,1,0
+95.6,37.0,Left Foot,Normal,1,1,0,0.03339956,Paris Saint-Germain,Ángel Fabián Di María Hernández,87,3,24.583734460004244,0.29777989521899445,1,1,0
+106.8,47.3,Left Foot,Half Volley,1,0,0,0.0828597,Paris Saint-Germain,Edinson Roberto Cavani Gómez,87,35,15.084097586531321,0.5409558343915415,1,0,1
+102.2,48.3,Right Foot,Half Volley,0,1,0,0.06470989,Paris Saint-Germain,Serge Aurier,90,0,19.640010183296745,0.405583158274189,1,0,1
+104.9,32.5,Right Foot,Normal,1,0,0,0.09260755,Paris Saint-Germain,Zlatan Ibrahimović,5,59,16.860011862392025,0.4755960370294988,1,1,0
+104.5,41.1,Right Foot,Volley,1,0,0,0.15827887,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,15,49,15.538983235720412,0.46376327121584243,1,0,1
+109.3,47.7,Head,Normal,0,0,0,0.04902454,Paris Saint-Germain,Edinson Roberto Cavani Gómez,22,1,13.182564242210242,0.6591607440326119,1,0,1
+101.9,40.4,Right Foot,Normal,0,1,0,0.08464395,Paris Saint-Germain,Maxwell Scherrer Cabelino Andrade,24,50,18.10441934998192,0.3990392016715098,1,0,1
+106.4,33.0,Right Foot,Normal,0,1,0,0.19379252,Paris Saint-Germain,Edinson Roberto Cavani Gómez,24,51,15.29575104399911,0.5257785040250339,1,1,0
+101.3,25.0,Right Foot,Lob,0,1,0,0.09089261,Paris Saint-Germain,Zlatan Ibrahimović,28,26,23.97269279826528,0.38655732513097435,0,1,0
+92.8,53.3,Right Foot,Normal,1,0,0,0.025015041,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,32,0,30.277549438486595,0.26751084538137315,0,0,1
+114.3,36.0,Head,Normal,1,0,0,0.1706786,Paris Saint-Germain,Thiago Emiliano da Silva,41,22,6.963476143421476,1.1416105638124492,1,1,0
+107.1,36.4,Left Foot,Half Volley,0,1,0,0.102923654,Paris Saint-Germain,Edinson Roberto Cavani Gómez,44,17,13.392908571329835,0.5529115532897589,1,1,0
+107.6,23.7,Left Foot,Normal,1,1,0,0.014475738,Paris Saint-Germain,Edinson Roberto Cavani Gómez,45,45,20.48047851003487,0.5740234415522852,0,1,0
+113.8,47.9,Head,Normal,1,0,0,0.087753505,Paris Saint-Germain,Zlatan Ibrahimović,45,50,10.042410069301095,1.066546723587709,1,0,1
+112.4,35.6,Head,Normal,0,0,1,0.12936,Paris Saint-Germain,Edinson Roberto Cavani Gómez,56,37,8.781799360040054,0.8976049283882304,1,1,0
+103.2,35.1,Right Foot,Normal,0,0,0,0.14255807,Paris Saint-Germain,Blaise Matuidi,58,57,17.499999999999996,0.4290109148821801,1,1,0
+109.2,34.8,Head,Diving Header,0,0,0,0.14037156,Paris Saint-Germain,Edinson Roberto Cavani Gómez,66,32,11.986659251017358,0.6534843869413643,1,1,0
+107.6,29.9,Right Foot,Normal,0,1,1,0.25338832,Paris Saint-Germain,Edinson Roberto Cavani Gómez,72,16,15.992810884894505,0.5740234415522852,0,1,0
+110.5,51.0,Right Foot,Normal,1,0,0,0.18573579,Paris Saint-Germain,Serge Aurier,78,28,14.534441853748634,0.7354760173051574,0,0,1
+103.5,43.3,Right Foot,Half Volley,1,1,1,0.11113,Paris Saint-Germain,Ezequiel Iván Lavezzi,82,26,16.82676439485619,0.43656777241744393,1,0,1
+107.0,60.3,Left Foot,Normal,0,0,0,0.010121631,Paris Saint-Germain,Ángel Fabián Di María Hernández,85,35,24.10580842867544,0.5488694948224784,0,0,1
+98.6,22.2,Right Foot,Normal,0,0,0,0.012521728,Paris Saint-Germain,Ezequiel Iván Lavezzi,90,47,27.835229476330895,0.3387782974830653,0,1,0
+106.1,40.6,Right Foot,Normal,1,1,0,0.06835877,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,1,43,13.91294361377204,0.5149307160592628,1,0,1
+109.5,45.4,Right Foot,Normal,1,1,0,0.075875126,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,1,44,11.807201192492656,0.6708031670148005,1,0,1
+92.7,37.8,Right Foot,Normal,0,0,0,0.031214107,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,7,16,27.388501236832948,0.2665425346197295,1,1,0
+105.6,26.3,Left Foot,Normal,0,0,1,0.060586702,Paris Saint-Germain,Blaise Matuidi,10,4,19.875864761061344,0.4977927416022123,0,1,0
+112.5,43.2,Head,Normal,0,0,1,0.10402518,Paris Saint-Germain,Thiago Emiliano da Silva,20,22,8.154140052758477,0.9080032118662575,1,0,1
+110.9,39.4,Head,Normal,1,0,0,0.07463917,Paris Saint-Germain,Jean-Kévin Augustin,31,2,9.11975876873944,0.7647991942294219,1,1,0
+89.4,46.7,Left Foot,Normal,0,1,0,0.019025786,Paris Saint-Germain,Thiago Motta,32,30,31.324910215354166,0.23808463627066898,1,0,1
+85.2,35.3,Right Foot,Normal,0,0,0,0.018397901,Paris Saint-Germain,David Luiz Moreira Marinho,39,19,35.11595079162744,0.20957437647369437,1,1,0
+107.2,42.7,Head,Normal,0,0,0,0.046382833,Paris Saint-Germain,Edinson Roberto Cavani Gómez,62,23,13.081666560496027,0.557012029519016,1,0,1
+113.0,53.1,Right Foot,Half Volley,1,1,0,0.055830646,Paris Saint-Germain,Jean-Kévin Augustin,64,6,14.852945835759318,0.9635313430737257,0,0,1
+107.1,33.3,Head,Normal,0,0,0,0.045926023,Paris Saint-Germain,Edinson Roberto Cavani Gómez,68,5,14.536161804272824,0.5529115532897589,1,1,0
+110.9,40.3,Head,Normal,0,0,0,0.07103236,Paris Saint-Germain,David Luiz Moreira Marinho,69,37,9.104943712072025,0.7647991942294219,1,0,1
+107.1,42.6,Right Foot,Volley,1,1,0,0.06256308,Paris Saint-Germain,Thiago Emiliano da Silva,70,12,13.15940728148499,0.5529115532897589,1,0,1
+110.9,37.9,Head,Diving Header,0,0,0,0.2237682,Paris Saint-Germain,Serge Aurier,79,28,9.33916484488843,0.7647991942294219,1,1,0
+113.8,36.4,Head,Normal,1,0,0,0.11782034,Paris Saint-Germain,David Luiz Moreira Marinho,84,22,7.169379331573971,1.066546723587709,1,1,0
+107.5,39.5,Head,Normal,0,0,0,0.080673136,Paris Saint-Germain,Edinson Roberto Cavani Gómez,84,37,12.509996003196804,0.5696765414707413,1,1,0
+98.1,43.2,Right Foot,Normal,0,0,0,0.046555348,Paris Saint-Germain,Lucas Rodrigues Moura da Silva,85,12,22.13255520720552,0.3311858487734694,1,0,1
+99.5,52.5,Right Foot,Normal,1,0,0,0.056025844,Paris Saint-Germain,Javier Matías Pastore,92,38,24.01041440708594,0.35335017879551,0,0,1

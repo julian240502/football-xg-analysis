@@ -1,0 +1,30 @@
+x,y,shot_body_part,shot_technique,under_pressure,shot_first_time,goal,shot_statsbomb_xg,team,player,minute,second,distance_to_goal,angle_to_goal,is_central_zone,is_left_side,is_right_side
+94.1,45.6,Left Foot,Normal,1,0,0,0.03239634,Marseille,Rémy Cabella,1,29,26.498490523046787,0.28076642986028516,1,0,1
+104.8,42.4,Left Foot,Normal,0,1,0,0.10615076,Marseille,Romain Alessandrini,5,55,15.388307249337078,0.4725826470039579,1,0,1
+96.5,51.5,Left Foot,Normal,1,0,0,0.025239404,Marseille,Michy Batshuayi Tunga,8,46,26.16295090390226,0.30900685534165184,0,0,1
+106.6,44.0,Head,Normal,0,0,0,0.06728822,Paris Saint-Germain,Ángel Fabián Di María Hernández,10,11,13.984276885130678,0.5332617696887639,1,0,1
+105.2,57.5,Right Foot,Normal,0,0,0,0.040201165,Paris Saint-Germain,Zlatan Ibrahimović,11,15,22.919205919926632,0.4848666595509598,0,0,1
+90.2,58.6,Left Foot,Normal,0,0,0,0.006156154,Marseille,Romain Alessandrini,12,14,35.12833614050059,0.24441354027844167,0,0,1
+106.9,29.8,Right Foot,Normal,0,1,0,0.10075281,Paris Saint-Germain,Zlatan Ibrahimović,18,22,16.602710622064095,0.5448846468926428,0,1,0
+102.8,40.8,Right Foot,Half Volley,0,1,0,0.05089525,Paris Saint-Germain,Zlatan Ibrahimović,22,11,17.21859460002471,0.41932702902652264,1,0,1
+112.6,44.7,Right Foot,Half Volley,0,1,0,0.16949627,Paris Saint-Germain,Zlatan Ibrahimović,22,12,8.766413177577252,0.9186278833123988,1,0,1
+101.6,51.8,Left Foot,Normal,0,0,0,0.08709055,Paris Saint-Germain,Ángel Fabián Di María Hernández,25,9,21.858636736997124,0.3927003824308198,0,0,1
+105.0,20.6,Right Foot,Normal,0,0,0,0.009941623,Marseille,Michy Batshuayi Tunga,25,53,24.522642598219303,0.47864736198941576,0,1,0
+104.5,52.4,Left Foot,Normal,0,0,0,0.08708111,Paris Saint-Germain,Ángel Fabián Di María Hernández,28,16,19.84968513604183,0.46376327121584243,0,0,1
+112.3,42.3,Head,Normal,1,0,1,0.1886883,Marseille,Michy Batshuayi Tunga,29,25,8.036168241145777,0.8874264180196499,1,0,1
+108.1,40.1,Right Foot,Normal,0,0,1,0.7835,Paris Saint-Germain,Zlatan Ibrahimović,40,42,11.900420160649796,0.5967616520006681,1,0,1
+108.1,40.1,Right Foot,Normal,0,0,1,0.7835,Paris Saint-Germain,Zlatan Ibrahimović,43,42,11.900420160649796,0.5967616520006681,1,0,1
+113.2,53.8,Right Foot,Normal,0,0,0,0.06250915,Paris Saint-Germain,Serge Aurier,49,25,15.384407690905746,0.987531922196383,0,0,1
+108.1,40.1,Right Foot,Normal,0,0,0,0.7835,Marseille,Abdelaziz Barrada,54,45,11.900420160649796,0.5967616520006681,1,0,1
+102.2,48.1,Right Foot,Normal,1,0,0,0.11226834,Marseille,Michy Batshuayi Tunga,57,2,19.556328898850108,0.405583158274189,1,0,1
+92.9,31.7,Right Foot,Normal,0,0,0,0.026997011,Marseille,Michy Batshuayi Tunga,59,20,28.342547521350294,0.26848617479754083,1,1,0
+103.7,48.5,Left Foot,Normal,0,1,0,0.12094896,Paris Saint-Germain,Ángel Fabián Di María Hernández,63,46,18.383144453547654,0.4417528956138643,1,0,1
+107.6,25.6,Left Foot,Half Volley,1,1,0,0.045516007,Paris Saint-Germain,Edinson Roberto Cavani Gómez,65,48,19.003157632351527,0.5740234415522852,0,1,0
+114.8,37.2,Head,Normal,0,0,0,0.22063482,Paris Saint-Germain,Serge Aurier,67,29,5.905929224093362,1.22660522837624,1,1,0
+111.0,41.4,Head,Normal,1,0,0,0.081454985,Marseille,Romain Alessandrini,68,31,9.10823802938856,0.772480518454561,1,0,1
+93.3,34.6,Left Foot,Normal,0,0,0,0.032252807,Paris Saint-Germain,Blaise Matuidi,69,9,27.240594707164526,0.2724592179741034,1,1,0
+113.2,40.6,Right Foot,Normal,0,1,0,0.5290182,Paris Saint-Germain,Javier Matías Pastore,77,11,6.826419266350402,0.987531922196383,1,0,1
+103.8,23.3,Left Foot,Half Volley,0,0,0,0.030649405,Paris Saint-Germain,Maxwell Scherrer Cabelino Andrade,77,15,23.26649952184471,0.444391154043015,0,1,0
+113.4,38.2,Head,Normal,1,0,0,0.10039252,Marseille,Michy Batshuayi Tunga,78,19,6.841052550594822,1.0126526075472455,1,1,0
+110.3,35.9,Left Foot,Half Volley,1,1,0,0.18221433,Marseille,Rémy Cabella,89,24,10.530906893520617,0.721605457774023,1,1,0
+103.3,29.8,Right Foot,Normal,0,1,0,0.07222889,Marseille,Rémy Cabella,92,31,19.568597292601225,0.4315010855805508,0,1,0
