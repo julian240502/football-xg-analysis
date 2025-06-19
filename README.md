@@ -3,8 +3,8 @@
 This project delivers a complete pipeline to:
 
 * Build an **Expected Goals (xG) model** using real football match data (StatsBomb)
-* Visualize shots, heatmaps and player performance
-* Deploy an interactive **Streamlit application** for tactical and scouting analysis
+* Visualize shots, heatmaps and at terms player performance
+* [In coming ...] Deploy an interactive **Streamlit application** for tactical and scouting analysis
 
 ## Objective
 
@@ -13,21 +13,20 @@ To simulate the contribution of a **Football Data Scientist** within a professio
 ## Features
 
 * Preprocessing of StatsBomb event data (shots, players, match context)
-* Logistic regression and XGBoost models to predict shot success probability (xG)
-* Visualization: shot maps, xG overlays, player filters
-* Streamlit app for match and player exploration
+* XGBoost models to predict shot success probability (xG)
+* Visualization: shot maps, xG overlays
+* [In coming...] Streamlit app for match
 
 ## Use Cases
 
-* **Performance analysis**: Identify high-xG zones and key players
-* **Scouting support**: Compare player shot profiles visually
+* **Performance analysis**: Identify high-xG zones
 * **Coaching insights**: Understand shot quality over quantity
 
 ## Tech Stack
 
 * Python (Pandas, Scikit-learn, XGBoost)
 * StatsBomb Open Data
-* Streamlit, mplsoccer, Seaborn, Matplotlib
+* mplsoccer, Seaborn, Matplotlib
 
 ## Project Structure
 
@@ -35,17 +34,14 @@ To simulate the contribution of a **Football Data Scientist** within a professio
 football-xg-analysis/
 ├── data/                # Cleaned StatsBomb datasets
 ├── notebooks/          # EDA and model training
-├── streamlit_app/      # Streamlit dashboard
 ├── models/             # Saved xG models
-├── visuals/            # Static charts and heatmaps
+├── visuals/            # Static charts and Pitch shotmaps 
 └── README.md
 ```
 
 ## About
 
-This project was built as part of my goal to work as a **Football Data Scientist** within a top club environment. It reflects my passion for tactical data, player development, and high-performance analytics.
-
-Feel free to explore, run the app, and reach out!
+This project was built as part of my goal to work as a **Sport Data Scientist** within a top club environment. It reflects my passion for tactical data, player development, and high-performance analytics.
 
 ---
 
